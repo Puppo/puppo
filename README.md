@@ -2,7 +2,7 @@
 
 <img src="./Banner.png" alt="Luca Del Puppo - software engineer">
 
-I'm a software engineer who loves building beautiful, fast, responsive web applications.
+I'm a software engineer and [Microsoft MVP](https://mvp.microsoft.com/it-it/PublicProfile/5005133). I love building beautiful, fast, responsive web applications.
 
 I love to code in **Node.js**, **Javascript**, **TypeScript**, **Angular**, **React**, **C#** and sometimes I give talks about **Typescript**, **WebComponent**, **Node.js** and **Prisma**.
 

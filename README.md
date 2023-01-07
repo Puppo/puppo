@@ -61,10 +61,11 @@ When I've some free minutes, I love to write articles on **[dev. to](https://dev
 
 ## 📝 Series posts
 
-- [Typescript - Tips & Tricks](https://dev.to/puppo/series/11213)
-- [RxJS - Getting Started](https://dev.to/puppo/series/13743)
-- [It's Prisma Time](https://dev.to/puppo/series/15827)
+- [Playwright](https://dev.to/puppo/series/20832)
 - [VsCode - Tips & Tricks](https://dev.to/puppo/series/16773)
+- [It's Prisma Time](https://dev.to/puppo/series/15827)
+- [RxJS - Getting Started](https://dev.to/puppo/series/13743)
+- [Typescript - Tips & Tricks](https://dev.to/puppo/series/11213)
 
 ## 💌 Contact Me
 

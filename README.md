@@ -69,7 +69,7 @@ When I've some free minutes, I love to write articles on **[dev. to](https://dev
 
 ## 🗣️ My Contributions (speeches, articles, videos, etc.)
 
-- [Contributions](https://puppo.github.io/public-speaking/)
+- [Contributions](https://github.com/puppo/public-speaking)
 
 ## 💌 Contact Me
 

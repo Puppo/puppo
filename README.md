@@ -67,6 +67,10 @@ When I've some free minutes, I love to write articles on **[dev. to](https://dev
 - [RxJS - Getting Started](https://dev.to/puppo/series/13743)
 - [Typescript - Tips & Tricks](https://dev.to/puppo/series/11213)
 
+## 🗣️ My Contributions (speeches, articles, videos, etc.)
+
+- [Contributions](https://puppo.github.io/public-speaking/)
+
 ## 💌 Contact Me
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/puppo)

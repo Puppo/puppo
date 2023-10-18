@@ -2,9 +2,9 @@
 
 <img src="./Banner.png" alt="Luca Del Puppo - software engineer">
 
-I'm a software engineer and [Microsoft MVP](https://mvp.microsoft.com/it-it/PublicProfile/5005133). I love building beautiful, fast, responsive web applications.
+I'm a software engineer, [Microsoft MVP](https://mvp.microsoft.com/it-it/PublicProfile/5005133) and Google Developer Expert. I love building beautiful, fast, responsive web applications.
 
-I love to code in **Node.js**, **Javascript**, **TypeScript**, **Angular**, **React**, **C#** and sometimes I give talks about **Typescript**, **WebComponent**, **Node.js** and **Prisma**.
+I love to code in **Node.js**, **JavaScript**, **TypeScript**, **Angular**, **React**, **C#** and sometimes I give talks about **Typescript**, **WebComponent**, **Node.js** and **Prisma**.
 
 When I've some free minutes, I love to write articles on **[dev. to](https://dev.to/puppo)**
 

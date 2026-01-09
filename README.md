@@ -112,45 +112,44 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <a href="https://dev.to/puppo/series/20832">
         <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" /><br>
         <b>Playwright</b>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <a href="https://dev.to/puppo/series/16773">
         <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
         <b>VSCode Tips & Tricks</b>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <a href="https://dev.to/puppo/series/15827">
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" /><br>
         <b>It's Prisma Time</b>
       </a>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
       <a href="https://dev.to/puppo/series/13743">
         <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /><br>
         <b>RxJS - Getting Started</b>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <a href="https://dev.to/puppo/series/11213">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
         <b>TypeScript Tips & Tricks</b>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <a href="https://github.com/puppo/public-speaking">
         <img src="https://img.shields.io/badge/🎤_Talks-FF4088?style=for-the-badge" /><br>
         <b>My Contributions</b>
       </a>
     </td>
-    <td colspan="2"></td>
   </tr>
 </table>
 
@@ -168,6 +167,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puppo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <!-- Note: Activity graph uses 'tokyo-night' format for theme parameter -->
 </div>
 
 ---

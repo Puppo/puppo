@@ -166,8 +166,8 @@
 ## 📈 Activity Graph
 
 <div align="center">
+  <!-- Note: Activity graph service requires 'tokyo-night' format (with hyphen) for theme parameter -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puppo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-  <!-- Note: Activity graph uses 'tokyo-night' format for theme parameter -->
 </div>
 
 ---

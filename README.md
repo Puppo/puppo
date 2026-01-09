@@ -1,78 +1,198 @@
-## Hi everybody! I'm Luca 👋 🏃 💻
+<div align="center">
+  <img src="./Banner.png" alt="Luca Del Puppo - software engineer" width="100%">
+  
+  # 👋 Hi, I'm Luca Del Puppo
+  
+  ### 🚀 Software Engineer | 🎯 Google Developer Expert | 💎 Former Microsoft MVP
+  
+  <p align="center">
+    <a href="https://github.com/puppo"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://twitter.com/puppo92"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/lucadelpuppo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://dev.to/puppo"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=puppo&label=Profile%20views&color=0e75b6&style=flat" alt="puppo" />
+  </p>
+  
+  <p>
+    I'm passionate about building <b>beautiful, fast, and responsive web applications</b>. <br/>
+    I love coding in <b>Node.js, TypeScript, Angular, React, and C#</b> and sharing my knowledge through talks and articles.
+  </p>
+  
+  <p>
+    ✍️ I write articles on <a href="https://dev.to/puppo"><b>dev.to</b></a> | 🎤 Check out my <a href="https://github.com/puppo/public-speaking"><b>contributions</b></a>
+  </p>
+</div>
 
-<img src="./Banner.png" alt="Luca Del Puppo - software engineer">
+---
 
-I'm a software engineer, Google Developer Expert, and Former Microsoft MVP. I love building beautiful, fast, responsive web applications.
+## 📊 GitHub Stats
 
-I love to code in **Node.js**, **JavaScript**, **TypeScript**, **Angular**, **React**, **C#** and sometimes I give talks about **Typescript**, **WebComponent**, **Node.js** and **Prisma**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puppo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puppo&theme=tokyonight&hide_border=true" alt="Luca's GitHub streak" height="170"/>
+</div>
 
-When I've some free minutes, I love to write articles on **[dev. to](https://dev.to/puppo)**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-## 👨🏻‍💻 Programming Languages
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node-333333?style=for-the-badge&logo=node.js&logoColor=026e00" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
 
-## 💻 Framework and Libraries
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nx-143157?style=for-the-badge&logo=nx&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma-38a169?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WebComponent-black?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lit-325cff?style=for-the-badge&logo=lit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## ☁️ Cloud Services
+</details>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws-ec7211.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<details open>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br>
 
-## 💾 Databases
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Lit](https://img.shields.io/badge/-Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143157?style=for-the-badge&logo=nx&logoColor=white)
+![WebComponents](https://img.shields.io/badge/-WebComponents-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgre%20SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-</p>
+</details>
 
-## ⚙️ IDE & Editors
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## 📝 Series posts
+</details>
 
-- [Playwright](https://dev.to/puppo/series/20832)
-- [VsCode - Tips & Tricks](https://dev.to/puppo/series/16773)
-- [It's Prisma Time](https://dev.to/puppo/series/15827)
-- [RxJS - Getting Started](https://dev.to/puppo/series/13743)
-- [Typescript - Tips & Tricks](https://dev.to/puppo/series/11213)
+<details open>
+<summary><b>💾 Databases</b></summary>
+<br>
 
-## 🗣️ My Contributions (speeches, articles, videos, etc.)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- [Contributions](https://github.com/puppo/public-speaking)
+</details>
 
-## 💌 Contact Me
+<details>
+<summary><b>🔧 Tools & IDEs</b></summary>
+<br>
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/puppo)
-[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/puppo92)
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lucadelpuppo)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+---
+
+## 📝 Featured Blog Series
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://dev.to/puppo/series/20832">
+        <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" /><br>
+        <b>Playwright</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://dev.to/puppo/series/16773">
+        <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
+        <b>VSCode Tips & Tricks</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://dev.to/puppo/series/15827">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" /><br>
+        <b>It's Prisma Time</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://dev.to/puppo/series/13743">
+        <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" /><br>
+        <b>RxJS - Getting Started</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://dev.to/puppo/series/11213">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+        <b>TypeScript Tips & Tricks</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/puppo/public-speaking">
+        <img src="https://img.shields.io/badge/🎤_Talks-FF4088?style=for-the-badge" /><br>
+        <b>My Contributions</b>
+      </a>
+    </td>
+    <td colspan="2"></td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=puppo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puppo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🤝 Let's Connect!
+  
+  **I'm always open to interesting conversations and collaboration opportunities.**
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/puppo)
+  [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/puppo92)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucadelpuppo)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/puppo)
+  
+  ---
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  
+</div>

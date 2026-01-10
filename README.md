@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puppo" alt="Puppo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="/Banner.png" alt="Puppo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="/banner.jpeg" alt="Puppo" /></a> </p>
 
 - 🔭 I'm currently working on **node, fastify, react and AI Agents**
 

@@ -8,6 +8,8 @@
 
 - 🔭 I'm currently working on **node, fastify, react and AI Agents**
 
+- 🎖️ I'm **Google Developer Expert and Former Microsoft MVP**
+
 - 🌱 I'm currently learning **AI Agents and everything about AI**
 
 - 💬 Ask me about **React, Node, TypeScript, JavaScript, HTML, CSS, Angular**

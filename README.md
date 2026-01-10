@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact **I like do running and hiking**
 
-- 👨‍💻 All of my projects are available at **[https://delpuppo.net](https://delpuppo.net)**
+- 👨‍💻 Here my website **[https://delpuppo.net](https://delpuppo.net)**
 
-- 📝 I regularly write articles on **[https://blog.delpuppo.net/](https://blog.delpuppo.net/)**
+- 📝 I write articles on **[https://blog.delpuppo.net/](https://blog.delpuppo.net/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

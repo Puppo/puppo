@@ -1,78 +1,73 @@
-## Hi everybody! I'm Luca 👋 🏃 💻
+# Hi 👋, I'm Luca Del Puppo
 
-<img src="./Banner.png" alt="Luca Del Puppo - software engineer">
+### A seasoned Typescript developer
 
-I'm a software engineer, Google Developer Expert, and Former Microsoft MVP. I love building beautiful, fast, responsive web applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puppo" alt="Puppo" /> </p>
 
-I love to code in **Node.js**, **JavaScript**, **TypeScript**, **Angular**, **React**, **C#** and sometimes I give talks about **Typescript**, **WebComponent**, **Node.js** and **Prisma**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="/Banner.png" alt="Puppo" /></a> </p>
 
-When I've some free minutes, I love to write articles on **[dev. to](https://dev.to/puppo)**
+- 🔭 I'm currently working on **node, fastify, react and AI Agents**
 
-## 👨🏻‍💻 Programming Languages
+- 🎖️ I'm **Google Developer Expert and Former Microsoft MVP**
 
+- 🌱 I'm currently learning **AI Agents and everything about AI**
+
+- 💬 Ask me about **React, Node, TypeScript, JavaScript, HTML, CSS, Angular**
+
+- 📫 How to reach me **<luca@delpuppo.net>**
+
+- ⚡ Fun fact **I like do running and hiking**
+
+- 👨‍💻 Here my website **[https://delpuppo.net](https://delpuppo.net)**
+
+- 📝 I write articles on **[https://blog.delpuppo.net/](https://blog.delpuppo.net/)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node-333333?style=for-the-badge&logo=node.js&logoColor=026e00" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<a href="https://github.com/Puppo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Puppo" height="30" width="40" /></a>
+<a href="https://dev.to/puppo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="puppo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucadelpuppo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucadelpuppo" height="30" width="40" /></a>
+<a href="https://twitter.com/puppo92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puppo92" height="30" width="40" /></a>
+<a href="https://youtube.com/@Puppo_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Puppo_92" height="30" width="40" /></a>
 </p>
 
-## 💻 Framework and Libraries
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nx-143157?style=for-the-badge&logo=nx&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma-38a169?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WebComponent-black?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lit-325cff?style=for-the-badge&logo=lit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+## 📈 GitHub Stats
+
+[![](https://raw.githubusercontent.com/Puppo/Puppo/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Puppo/Puppo/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Puppo/Puppo/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Puppo/Puppo/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Puppo/Puppo/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 🏆GitHub Trophies
+
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Puppo&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
-## ☁️ Cloud Services
+## 📝 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws-ec7211.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+## ⚡ Recent Activities
 
-## 💾 Databases
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgre%20SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-</p>
+## 💰You can help me by donating
 
-## ⚙️ IDE & Editors
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
-## 📝 Series posts
-
-- [Playwright](https://dev.to/puppo/series/20832)
-- [VsCode - Tips & Tricks](https://dev.to/puppo/series/16773)
-- [It's Prisma Time](https://dev.to/puppo/series/15827)
-- [RxJS - Getting Started](https://dev.to/puppo/series/13743)
-- [Typescript - Tips & Tricks](https://dev.to/puppo/series/11213)
-
-## 🗣️ My Contributions (speeches, articles, videos, etc.)
-
-- [Contributions](https://github.com/puppo/public-speaking)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/puppo92)
 
 ## 💌 Contact Me
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/puppo)
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/puppo92)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lucadelpuppo)
+[<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@Puppo_92)
+
+---
+<p align="center"> © 2026 Luca Del Puppo, all rights reserved. Made with ❤️. </p>
+<p align="center">
+https://www.delpuppo.com
+</p>

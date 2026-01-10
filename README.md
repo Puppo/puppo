@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=puppo&label=Profile%20views&color=0e75b6&style=flat" alt="puppo" />
+    <img src="https://komarev.com/ghpvc/?username=Puppo&label=Profile%20views&color=0e75b6&style=flat" alt="Puppo" />
   </p>
   
   <p>
@@ -31,12 +31,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puppo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puppo&theme=tokyonight&hide_border=true" alt="Luca's GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Puppo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puppo&theme=tokyonight&hide_border=true" alt="Luca's GitHub streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puppo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -158,7 +158,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=puppo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Puppo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -167,15 +167,7 @@
 
 <div align="center">
   <!-- Note: Activity graph service requires 'tokyo-night' format (with hyphen) for theme parameter -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puppo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puppo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---

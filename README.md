@@ -2,7 +2,7 @@
 
 ### A seasoned Typescript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Puppo&label=Profile views&color=0e75b6&style=flat" alt="Puppo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puppo" alt="Puppo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="/Banner.png" alt="Puppo" /></a> </p>
 

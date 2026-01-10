@@ -49,7 +49,7 @@
 ## 🏆GitHub Trophies
 
 <p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=Puppo&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=Puppo&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ## 📝 Blog posts

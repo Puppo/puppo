@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Puppo&show_icons=true&locale=en" alt="Puppo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Puppo&" alt="Puppo" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Puppo" alt="Puppo" /></p>

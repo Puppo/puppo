@@ -48,21 +48,11 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I created a Cozy Workspace in VS Code](https://dev.to/this-is-learning/how-i-created-a-cozy-workspace-in-vs-code-4bf0)
-- [Why I Built TaskDeck and How It Improves Your VS Code Workflow](https://dev.to/this-is-learning/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9)
-- [Why I Use JetBrains Rider for .NET Development](https://dev.to/this-is-learning/why-i-use-jetbrains-rider-for-net-development-2a8k)
-- [⚡ Turn On or Off Fast Startup in Windows 11](https://dev.to/puppo/turn-on-or-off-fast-startup-in-windows-11-4pgh)
-- [Building My New Website with Astro, GitHub Copilot, and AWS Amplify](https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.7.0](https://github.com/puppo/vscode-copilot-insights/releases/tag/v1.7.0) in [puppo/vscode-copilot-insights](https://github.com/puppo/vscode-copilot-insights)
-2. 🚀 Published release [v1.6.0](https://github.com/puppo/vscode-copilot-insights/releases/tag/v1.6.0) in [puppo/vscode-copilot-insights](https://github.com/puppo/vscode-copilot-insights)
-3. ℹ️ Labeled issue [#8](https://github.com/puppo/vscode-copilot-insights/issues/8) in [puppo/vscode-copilot-insights](https://github.com/puppo/vscode-copilot-insights)
-4. ℹ️ Assigned issue [#8](https://github.com/puppo/vscode-copilot-insights/issues/8) in [puppo/vscode-copilot-insights](https://github.com/puppo/vscode-copilot-insights)
-5. ❗ Opened issue [#1](https://github.com/golbin/gw/issues/1) in [golbin/gw](https://github.com/golbin/gw)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

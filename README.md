@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./Banner.png" alt="Luca Del Puppo - software engineer" width="100%">
   
-  # 👋 Hi, I'm Luca Del Puppo
+# 👋 Hi, I'm Luca Del Puppo
   
-  ### 🚀 Software Engineer | 🎯 Google Developer Expert | 💎 Former Microsoft MVP
+### 🚀 Software Engineer | 🎯 Google Developer Expert | 💎 Former Microsoft MVP
   
   <p align="center">
     <a href="https://github.com/puppo"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puppo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puppo&theme=tokyonight&hide_border=true" alt="Luca's GitHub streak" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Puppo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Puppo&theme=tokyonight&hide_border=true" alt="Luca's GitHub streak" height="170"/>
 </div>
 
 <div align="center">
@@ -158,7 +158,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Puppo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Puppo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -174,7 +174,7 @@
 
 <div align="center">
   
-  ### 🤝 Let's Connect!
+### 🤝 Let's Connect
   
   **I'm always open to interesting conversations and collaboration opportunities.**
   

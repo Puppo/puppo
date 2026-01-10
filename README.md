@@ -85,5 +85,5 @@
 ---
 <p align="center"> © 2026 Luca Del Puppo, all rights reserved. Made with ❤️. </p>
 <p align="center">
-https://www.delpuppo.com
+https://delpuppo.net
 </p>

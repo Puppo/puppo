@@ -31,12 +31,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Puppo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Puppo&theme=tokyonight&hide_border=true" alt="Luca's GitHub streak" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Puppo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Luca's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Puppo&hide_border=true" alt="Luca's GitHub streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puppo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Puppo&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ---

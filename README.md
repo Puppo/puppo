@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Puppo/mcp-server-test/pull/6) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
-2. 💪 Opened PR [#6](https://github.com/Puppo/mcp-server-test/pull/6) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
-3. ❌ Closed PR [#1](https://github.com/Puppo/mcp-server-test/pull/1) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
-4. 🎉 Merged PR [#291](https://github.com/fastify/aws-lambda-fastify/pull/291) in [fastify/aws-lambda-fastify](https://github.com/fastify/aws-lambda-fastify)
-5. 💪 Opened PR [#29](https://github.com/mercurius-js/mercurius-integration-testing/pull/29) in [mercurius-js/mercurius-integration-testing](https://github.com/mercurius-js/mercurius-integration-testing)
+1. 🎉 Merged PR [#177](https://github.com/pinojs/pino-std-serializers/pull/177) in [pinojs/pino-std-serializers](https://github.com/pinojs/pino-std-serializers)
+2. 🎉 Merged PR [#6](https://github.com/Puppo/mcp-server-test/pull/6) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
+3. 💪 Opened PR [#6](https://github.com/Puppo/mcp-server-test/pull/6) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
+4. ❌ Closed PR [#1](https://github.com/Puppo/mcp-server-test/pull/1) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
+5. 🎉 Merged PR [#291](https://github.com/fastify/aws-lambda-fastify/pull/291) in [fastify/aws-lambda-fastify](https://github.com/fastify/aws-lambda-fastify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

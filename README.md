@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2299](https://github.com/pinojs/pino/pull/2299#issuecomment-3757142913) in [pinojs/pino](https://github.com/pinojs/pino)
-2. 🗣 Commented on [#287723](https://github.com/microsoft/vscode/issues/287723#issuecomment-3748617975) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🎉 Merged PR [#29](https://github.com/mercurius-js/mercurius-integration-testing/pull/29) in [mercurius-js/mercurius-integration-testing](https://github.com/mercurius-js/mercurius-integration-testing)
-4. 🎉 Merged PR [#177](https://github.com/pinojs/pino-std-serializers/pull/177) in [pinojs/pino-std-serializers](https://github.com/pinojs/pino-std-serializers)
-5. 🎉 Merged PR [#6](https://github.com/Puppo/mcp-server-test/pull/6) in [Puppo/mcp-server-test](https://github.com/Puppo/mcp-server-test)
+1. 🎉 Merged PR [#17](https://github.com/fastify/sse/pull/17) in [fastify/sse](https://github.com/fastify/sse)
+2. 🗣 Commented on [#2299](https://github.com/pinojs/pino/pull/2299#issuecomment-3757142913) in [pinojs/pino](https://github.com/pinojs/pino)
+3. 🗣 Commented on [#287723](https://github.com/microsoft/vscode/issues/287723#issuecomment-3748617975) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🎉 Merged PR [#29](https://github.com/mercurius-js/mercurius-integration-testing/pull/29) in [mercurius-js/mercurius-integration-testing](https://github.com/mercurius-js/mercurius-integration-testing)
+5. 🎉 Merged PR [#177](https://github.com/pinojs/pino-std-serializers/pull/177) in [pinojs/pino-std-serializers](https://github.com/pinojs/pino-std-serializers)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

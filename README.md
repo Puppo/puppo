@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
-2. 💪 Opened PR [#401](https://github.com/fastify/website/pull/401) in [fastify/website](https://github.com/fastify/website)
-3. 🎉 Merged PR [#17](https://github.com/fastify/sse/pull/17) in [fastify/sse](https://github.com/fastify/sse)
-4. 🗣 Commented on [#2299](https://github.com/pinojs/pino/pull/2299#issuecomment-3757142913) in [pinojs/pino](https://github.com/pinojs/pino)
-5. 🗣 Commented on [#287723](https://github.com/microsoft/vscode/issues/287723#issuecomment-3748617975) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
+2. 💪 Opened PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
+3. 💪 Opened PR [#401](https://github.com/fastify/website/pull/401) in [fastify/website](https://github.com/fastify/website)
+4. 🎉 Merged PR [#17](https://github.com/fastify/sse/pull/17) in [fastify/sse](https://github.com/fastify/sse)
+5. 🗣 Commented on [#2299](https://github.com/pinojs/pino/pull/2299#issuecomment-3757142913) in [pinojs/pino](https://github.com/pinojs/pino)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

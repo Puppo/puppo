@@ -54,11 +54,11 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
-- [The Mood Mirror App - My Antigravity first experience](https://dev.to/this-is-learning/the-mood-mirror-app-my-antigravity-first-experience-10a4)
-- [Improve Your Git Commit Messages with GitLens Tips](https://dev.to/this-is-learning/improve-your-git-commit-messages-with-gitlens-tips-50hg)
-- [Do you really need the Cloud to work with AI?](https://dev.to/this-is-learning/do-you-really-need-the-cloud-to-work-with-ai-115h)
-- [A Promise is forever](https://dev.to/this-is-learning/a-promise-is-forever-124i)
+- [Take control of your job with GitLens Launchpad](https://dev.to/playfulprogramming/take-control-of-your-job-with-gitlens-launchpad-4oo2)
+- [The Mood Mirror App - My Antigravity first experience](https://dev.to/playfulprogramming/the-mood-mirror-app-my-antigravity-first-experience-10a4)
+- [Improve Your Git Commit Messages with GitLens Tips](https://dev.to/playfulprogramming/improve-your-git-commit-messages-with-gitlens-tips-50hg)
+- [Do you really need the Cloud to work with AI?](https://dev.to/playfulprogramming/do-you-really-need-the-cloud-to-work-with-ai-115h)
+- [A Promise is forever](https://dev.to/playfulprogramming/a-promise-is-forever-124i)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities

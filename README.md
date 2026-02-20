@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
-2. 💪 Opened PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
-3. 💪 Opened PR [#401](https://github.com/fastify/website/pull/401) in [fastify/website](https://github.com/fastify/website)
-4. 🎉 Merged PR [#17](https://github.com/fastify/sse/pull/17) in [fastify/sse](https://github.com/fastify/sse)
-5. 🗣 Commented on [#2299](https://github.com/pinojs/pino/pull/2299#issuecomment-3757142913) in [pinojs/pino](https://github.com/pinojs/pino)
+1. 🗣 Commented on [#3](https://github.com/TheCodePace/fastify-skills/pull/3#issuecomment-3932386942) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+2. 🎉 Merged PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
+3. 💪 Opened PR [#402](https://github.com/fastify/website/pull/402) in [fastify/website](https://github.com/fastify/website)
+4. 💪 Opened PR [#401](https://github.com/fastify/website/pull/401) in [fastify/website](https://github.com/fastify/website)
+5. 🎉 Merged PR [#17](https://github.com/fastify/sse/pull/17) in [fastify/sse](https://github.com/fastify/sse)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#26](https://github.com/TheCodePace/fastify-skills/issues/26) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 🎉 Merged PR [#120](https://github.com/mercurius-js/mercurius-gateway/pull/120) in [mercurius-js/mercurius-gateway](https://github.com/mercurius-js/mercurius-gateway)
 2. ℹ️ Assigned issue [#26](https://github.com/TheCodePace/fastify-skills/issues/26) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. ℹ️ Assigned issue [#25](https://github.com/TheCodePace/fastify-skills/issues/25) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+3. ℹ️ Assigned issue [#26](https://github.com/TheCodePace/fastify-skills/issues/26) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 4. ℹ️ Assigned issue [#25](https://github.com/TheCodePace/fastify-skills/issues/25) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-5. ℹ️ Assigned issue [#24](https://github.com/TheCodePace/fastify-skills/issues/24) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+5. ℹ️ Assigned issue [#25](https://github.com/TheCodePace/fastify-skills/issues/25) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

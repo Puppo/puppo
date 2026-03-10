@@ -64,10 +64,10 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/pinojs/pino-syslog/pull/32#issuecomment-3979906120) in [pinojs/pino-syslog](https://github.com/pinojs/pino-syslog)
-2. 🗣 Commented on [#29](https://github.com/TheCodePace/fastify-skills/pull/29#issuecomment-3975348880) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. 🎉 Merged PR [#120](https://github.com/mercurius-js/mercurius-gateway/pull/120) in [mercurius-js/mercurius-gateway](https://github.com/mercurius-js/mercurius-gateway)
-4. ℹ️ Assigned issue [#26](https://github.com/TheCodePace/fastify-skills/issues/26) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 💪 Opened PR [#6573](https://github.com/fastify/fastify/pull/6573) in [fastify/fastify](https://github.com/fastify/fastify)
+2. 🗣 Commented on [#32](https://github.com/pinojs/pino-syslog/pull/32#issuecomment-3979906120) in [pinojs/pino-syslog](https://github.com/pinojs/pino-syslog)
+3. 🗣 Commented on [#29](https://github.com/TheCodePace/fastify-skills/pull/29#issuecomment-3975348880) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+4. 🎉 Merged PR [#120](https://github.com/mercurius-js/mercurius-gateway/pull/120) in [mercurius-js/mercurius-gateway](https://github.com/mercurius-js/mercurius-gateway)
 5. ℹ️ Assigned issue [#26](https://github.com/TheCodePace/fastify-skills/issues/26) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 

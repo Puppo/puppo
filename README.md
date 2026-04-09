@@ -64,10 +64,10 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1755](https://github.com/googlecodelabs/feedback/issues/1755) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
-2. ❗ Opened issue [#1754](https://github.com/googlecodelabs/feedback/issues/1754) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
-3. 💪 Opened PR [#6573](https://github.com/fastify/fastify/pull/6573) in [fastify/fastify](https://github.com/fastify/fastify)
-4. 🗣 Commented on [#32](https://github.com/pinojs/pino-syslog/pull/32#issuecomment-3979906120) in [pinojs/pino-syslog](https://github.com/pinojs/pino-syslog)
+1. 💪 Opened PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
+2. ❗ Opened issue [#1755](https://github.com/googlecodelabs/feedback/issues/1755) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
+3. ❗ Opened issue [#1754](https://github.com/googlecodelabs/feedback/issues/1754) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
+4. 💪 Opened PR [#6573](https://github.com/fastify/fastify/pull/6573) in [fastify/fastify](https://github.com/fastify/fastify)
 5. 🗣 Commented on [#29](https://github.com/TheCodePace/fastify-skills/pull/29#issuecomment-3975348880) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
-2. ❗ Opened issue [#1755](https://github.com/googlecodelabs/feedback/issues/1755) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
-3. ❗ Opened issue [#1754](https://github.com/googlecodelabs/feedback/issues/1754) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
-4. 💪 Opened PR [#6573](https://github.com/fastify/fastify/pull/6573) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 🗣 Commented on [#29](https://github.com/TheCodePace/fastify-skills/pull/29#issuecomment-3975348880) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 💪 Opened PR [#43](https://github.com/davidmz/apng-js/pull/43) in [davidmz/apng-js](https://github.com/davidmz/apng-js)
+2. ❌ Closed PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
+3. 💪 Opened PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
+4. ❗ Opened issue [#1755](https://github.com/googlecodelabs/feedback/issues/1755) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
+5. ❗ Opened issue [#1754](https://github.com/googlecodelabs/feedback/issues/1754) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

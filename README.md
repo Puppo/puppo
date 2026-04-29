@@ -64,10 +64,10 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/davidmz/apng-js/pull/43) in [davidmz/apng-js](https://github.com/davidmz/apng-js)
-2. ❌ Closed PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
-3. 💪 Opened PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
-4. ❗ Opened issue [#1755](https://github.com/googlecodelabs/feedback/issues/1755) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
+1. 💪 Opened PR [#1](https://github.com/Puppo/react-paginate/pull/1) in [Puppo/react-paginate](https://github.com/Puppo/react-paginate)
+2. 💪 Opened PR [#43](https://github.com/davidmz/apng-js/pull/43) in [davidmz/apng-js](https://github.com/davidmz/apng-js)
+3. ❌ Closed PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
+4. 💪 Opened PR [#1](https://github.com/Puppo/apng-js/pull/1) in [Puppo/apng-js](https://github.com/Puppo/apng-js)
 5. ❗ Opened issue [#1754](https://github.com/googlecodelabs/feedback/issues/1754) in [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback)
 <!--END_SECTION:activity-->
 

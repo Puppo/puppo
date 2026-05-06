@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Puppo/fastify-awilix/pull/1) in [Puppo/fastify-awilix](https://github.com/Puppo/fastify-awilix)
-2. 💪 Opened PR [#1211](https://github.com/slopus/happy/pull/1211) in [slopus/happy](https://github.com/slopus/happy)
-3. 💪 Opened PR [#1](https://github.com/Puppo/happy/pull/1) in [Puppo/happy](https://github.com/Puppo/happy)
-4. 🗣 Commented on [#3](https://github.com/TheCodePace/fastify-skills/pull/3#issuecomment-4355679575) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-5. 💪 Opened PR [#531](https://github.com/AdeleD/react-paginate/pull/531) in [AdeleD/react-paginate](https://github.com/AdeleD/react-paginate)
+1. 💪 Opened PR [#294](https://github.com/fastify/fluent-json-schema/pull/294) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
+2. 💪 Opened PR [#1](https://github.com/Puppo/fastify-awilix/pull/1) in [Puppo/fastify-awilix](https://github.com/Puppo/fastify-awilix)
+3. 💪 Opened PR [#1211](https://github.com/slopus/happy/pull/1211) in [slopus/happy](https://github.com/slopus/happy)
+4. 💪 Opened PR [#1](https://github.com/Puppo/happy/pull/1) in [Puppo/happy](https://github.com/Puppo/happy)
+5. 🗣 Commented on [#3](https://github.com/TheCodePace/fastify-skills/pull/3#issuecomment-4355679575) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

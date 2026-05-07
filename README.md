@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#294](https://github.com/fastify/fluent-json-schema/pull/294) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
-2. 💪 Opened PR [#1](https://github.com/Puppo/fastify-awilix/pull/1) in [Puppo/fastify-awilix](https://github.com/Puppo/fastify-awilix)
-3. 💪 Opened PR [#1211](https://github.com/slopus/happy/pull/1211) in [slopus/happy](https://github.com/slopus/happy)
-4. 💪 Opened PR [#1](https://github.com/Puppo/happy/pull/1) in [Puppo/happy](https://github.com/Puppo/happy)
-5. 🗣 Commented on [#3](https://github.com/TheCodePace/fastify-skills/pull/3#issuecomment-4355679575) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 🗣 Commented on [#175](https://github.com/fastify/secure-json-parse/pull/175#issuecomment-4395060671) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+2. 🗣 Commented on [#175](https://github.com/fastify/secure-json-parse/pull/175#issuecomment-4394775458) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+3. 🗣 Commented on [#294](https://github.com/fastify/fluent-json-schema/pull/294#issuecomment-4394313740) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
+4. 💪 Opened PR [#175](https://github.com/fastify/secure-json-parse/pull/175) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+5. 💪 Opened PR [#294](https://github.com/fastify/fluent-json-schema/pull/294) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

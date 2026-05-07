@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#295](https://github.com/fastify/fluent-json-schema/pull/295) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
-2. 🎉 Merged PR [#175](https://github.com/fastify/secure-json-parse/pull/175) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
-3. 🎉 Merged PR [#294](https://github.com/fastify/fluent-json-schema/pull/294) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
-4. 🗣 Commented on [#175](https://github.com/fastify/secure-json-parse/pull/175#issuecomment-4395060671) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
-5. 🗣 Commented on [#175](https://github.com/fastify/secure-json-parse/pull/175#issuecomment-4394775458) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+1. 💪 Opened PR [#176](https://github.com/fastify/secure-json-parse/pull/176) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+2. 💪 Opened PR [#164](https://github.com/fastify/fastify-error/pull/164) in [fastify/fastify-error](https://github.com/fastify/fastify-error)
+3. ❌ Closed PR [#153](https://github.com/fastify/otel/pull/153) in [fastify/otel](https://github.com/fastify/otel)
+4. 💪 Opened PR [#153](https://github.com/fastify/otel/pull/153) in [fastify/otel](https://github.com/fastify/otel)
+5. 💪 Opened PR [#295](https://github.com/fastify/fluent-json-schema/pull/295) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

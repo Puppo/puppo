@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/fastify/fastify-error/pull/164) in [fastify/fastify-error](https://github.com/fastify/fastify-error)
-2. 🗣 Commented on [#1251](https://github.com/slopus/happy/issues/1251#issuecomment-4418107461) in [slopus/happy](https://github.com/slopus/happy)
-3. 💪 Opened PR [#86](https://github.com/fastify/fast-json-stringify-compiler/pull/86) in [fastify/fast-json-stringify-compiler](https://github.com/fastify/fast-json-stringify-compiler)
-4. 🎉 Merged PR [#295](https://github.com/fastify/fluent-json-schema/pull/295) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
-5. 💪 Opened PR [#176](https://github.com/fastify/secure-json-parse/pull/176) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+1. 💪 Opened PR [#614](https://github.com/nearform/fast-jwt/pull/614) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
+2. 🎉 Merged PR [#164](https://github.com/fastify/fastify-error/pull/164) in [fastify/fastify-error](https://github.com/fastify/fastify-error)
+3. 🗣 Commented on [#1251](https://github.com/slopus/happy/issues/1251#issuecomment-4418107461) in [slopus/happy](https://github.com/slopus/happy)
+4. 💪 Opened PR [#86](https://github.com/fastify/fast-json-stringify-compiler/pull/86) in [fastify/fast-json-stringify-compiler](https://github.com/fastify/fast-json-stringify-compiler)
+5. 🎉 Merged PR [#295](https://github.com/fastify/fluent-json-schema/pull/295) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

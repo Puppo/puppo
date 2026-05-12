@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Puppo/fastify-awilix/pull/1) in [Puppo/fastify-awilix](https://github.com/Puppo/fastify-awilix)
-2. 🎉 Merged PR [#176](https://github.com/fastify/secure-json-parse/pull/176) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
-3. 💪 Opened PR [#614](https://github.com/nearform/fast-jwt/pull/614) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
-4. 🎉 Merged PR [#164](https://github.com/fastify/fastify-error/pull/164) in [fastify/fastify-error](https://github.com/fastify/fastify-error)
-5. 🗣 Commented on [#1251](https://github.com/slopus/happy/issues/1251#issuecomment-4418107461) in [slopus/happy](https://github.com/slopus/happy)
+1. 🎉 Merged PR [#86](https://github.com/fastify/fast-json-stringify-compiler/pull/86) in [fastify/fast-json-stringify-compiler](https://github.com/fastify/fast-json-stringify-compiler)
+2. ❌ Closed PR [#1](https://github.com/Puppo/fastify-awilix/pull/1) in [Puppo/fastify-awilix](https://github.com/Puppo/fastify-awilix)
+3. 🎉 Merged PR [#176](https://github.com/fastify/secure-json-parse/pull/176) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
+4. 💪 Opened PR [#614](https://github.com/nearform/fast-jwt/pull/614) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
+5. 🎉 Merged PR [#164](https://github.com/fastify/fastify-error/pull/164) in [fastify/fastify-error](https://github.com/fastify/fastify-error)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

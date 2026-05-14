@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#233](https://github.com/nearform/sql/pull/233) in [nearform/sql](https://github.com/nearform/sql)
-2. 🎉 Merged PR [#415](https://github.com/nearform/fastify-auth0-verify/pull/415) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
-3. 🎉 Merged PR [#386](https://github.com/nearform/get-jwks/pull/386) in [nearform/get-jwks](https://github.com/nearform/get-jwks)
-4. 💪 Opened PR [#386](https://github.com/nearform/get-jwks/pull/386) in [nearform/get-jwks](https://github.com/nearform/get-jwks)
-5. ❌ Closed PR [#1](https://github.com/Puppo/get-jwks/pull/1) in [Puppo/get-jwks](https://github.com/Puppo/get-jwks)
+1. 💪 Opened PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
+2. 💪 Opened PR [#625](https://github.com/nearform/fastify-slow-down/pull/625) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
+3. 🎉 Merged PR [#233](https://github.com/nearform/sql/pull/233) in [nearform/sql](https://github.com/nearform/sql)
+4. 🎉 Merged PR [#415](https://github.com/nearform/fastify-auth0-verify/pull/415) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+5. 🎉 Merged PR [#386](https://github.com/nearform/get-jwks/pull/386) in [nearform/get-jwks](https://github.com/nearform/get-jwks)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
-2. 💪 Opened PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
-3. 💪 Opened PR [#625](https://github.com/nearform/fastify-slow-down/pull/625) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
-4. 🎉 Merged PR [#233](https://github.com/nearform/sql/pull/233) in [nearform/sql](https://github.com/nearform/sql)
-5. 🎉 Merged PR [#415](https://github.com/nearform/fastify-auth0-verify/pull/415) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+1. 🎉 Merged PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
+2. 💪 Opened PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
+3. 💪 Opened PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
+4. 💪 Opened PR [#625](https://github.com/nearform/fastify-slow-down/pull/625) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
+5. 🎉 Merged PR [#233](https://github.com/nearform/sql/pull/233) in [nearform/sql](https://github.com/nearform/sql)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

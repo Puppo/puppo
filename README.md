@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
-2. 🎉 Merged PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
-3. 💪 Opened PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
-4. 💪 Opened PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
-5. 💪 Opened PR [#625](https://github.com/nearform/fastify-slow-down/pull/625) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
+1. 🎉 Merged PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
+2. 💪 Opened PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
+3. 🎉 Merged PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
+4. 💪 Opened PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
+5. 💪 Opened PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
-2. 💪 Opened PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
-3. 🎉 Merged PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
-4. 💪 Opened PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
-5. 💪 Opened PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
+1. 💪 Opened PR [#264](https://github.com/mercurius-js/validation/pull/264) in [mercurius-js/validation](https://github.com/mercurius-js/validation)
+2. 💪 Opened PR [#1](https://github.com/Puppo/validation/pull/1) in [Puppo/validation](https://github.com/Puppo/validation)
+3. 🎉 Merged PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
+4. 💪 Opened PR [#64](https://github.com/nearform/fastify-jwt-jwks/pull/64) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
+5. 🎉 Merged PR [#237](https://github.com/nearform/node-test-parser/pull/237) in [nearform/node-test-parser](https://github.com/nearform/node-test-parser)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

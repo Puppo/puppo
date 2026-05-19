@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
-2. 💪 Opened PR [#137](https://github.com/mercurius-js/mercurius-gateway/pull/137) in [mercurius-js/mercurius-gateway](https://github.com/mercurius-js/mercurius-gateway)
-3. 💪 Opened PR [#135](https://github.com/mercurius-js/auth/pull/135) in [mercurius-js/auth](https://github.com/mercurius-js/auth)
-4. 💪 Opened PR [#200](https://github.com/mercurius-js/cache/pull/200) in [mercurius-js/cache](https://github.com/mercurius-js/cache)
-5. 🎉 Merged PR [#264](https://github.com/mercurius-js/validation/pull/264) in [mercurius-js/validation](https://github.com/mercurius-js/validation)
+1. 💪 Opened PR [#257](https://github.com/mercurius-js/mercurius-federation/pull/257) in [mercurius-js/mercurius-federation](https://github.com/mercurius-js/mercurius-federation)
+2. 💪 Opened PR [#27](https://github.com/mercurius-js/mercurius-subscription-client/pull/27) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
+3. 🎉 Merged PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
+4. 💪 Opened PR [#137](https://github.com/mercurius-js/mercurius-gateway/pull/137) in [mercurius-js/mercurius-gateway](https://github.com/mercurius-js/mercurius-gateway)
+5. 💪 Opened PR [#135](https://github.com/mercurius-js/auth/pull/135) in [mercurius-js/auth](https://github.com/mercurius-js/auth)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

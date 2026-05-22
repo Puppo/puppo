@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/mercurius-js/mercurius-subscription-client/pull/29) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
-2. 💪 Opened PR [#28](https://github.com/mercurius-js/mercurius-subscription-client/pull/28) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
-3. 💪 Opened PR [#257](https://github.com/mercurius-js/mercurius-federation/pull/257) in [mercurius-js/mercurius-federation](https://github.com/mercurius-js/mercurius-federation)
-4. 💪 Opened PR [#27](https://github.com/mercurius-js/mercurius-subscription-client/pull/27) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
-5. 🎉 Merged PR [#473](https://github.com/nearform/fastify-constraints/pull/473) in [nearform/fastify-constraints](https://github.com/nearform/fastify-constraints)
+1. 💪 Opened PR [#160](https://github.com/nearform/fastify-casbin/pull/160) in [nearform/fastify-casbin](https://github.com/nearform/fastify-casbin)
+2. 💪 Opened PR [#29](https://github.com/mercurius-js/mercurius-subscription-client/pull/29) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
+3. 💪 Opened PR [#28](https://github.com/mercurius-js/mercurius-subscription-client/pull/28) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
+4. 💪 Opened PR [#257](https://github.com/mercurius-js/mercurius-federation/pull/257) in [mercurius-js/mercurius-federation](https://github.com/mercurius-js/mercurius-federation)
+5. 💪 Opened PR [#27](https://github.com/mercurius-js/mercurius-subscription-client/pull/27) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

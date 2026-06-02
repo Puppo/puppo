@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/mercurius-js/auth/pull/135) in [mercurius-js/auth](https://github.com/mercurius-js/auth)
-2. 🎉 Merged PR [#200](https://github.com/mercurius-js/cache/pull/200) in [mercurius-js/cache](https://github.com/mercurius-js/cache)
-3. 🗣 Commented on [#625](https://github.com/nearform/fastify-slow-down/pull/625#issuecomment-4557106282) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
-4. 💪 Opened PR [#160](https://github.com/nearform/fastify-casbin/pull/160) in [nearform/fastify-casbin](https://github.com/nearform/fastify-casbin)
-5. 💪 Opened PR [#29](https://github.com/mercurius-js/mercurius-subscription-client/pull/29) in [mercurius-js/mercurius-subscription-client](https://github.com/mercurius-js/mercurius-subscription-client)
+1. 💪 Opened PR [#166](https://github.com/nearform/fastify-casbin-rest/pull/166) in [nearform/fastify-casbin-rest](https://github.com/nearform/fastify-casbin-rest)
+2. 🗣 Commented on [#614](https://github.com/nearform/fast-jwt/pull/614#issuecomment-4603283839) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
+3. 🎉 Merged PR [#135](https://github.com/mercurius-js/auth/pull/135) in [mercurius-js/auth](https://github.com/mercurius-js/auth)
+4. 🎉 Merged PR [#200](https://github.com/mercurius-js/cache/pull/200) in [mercurius-js/cache](https://github.com/mercurius-js/cache)
+5. 🗣 Commented on [#625](https://github.com/nearform/fastify-slow-down/pull/625#issuecomment-4557106282) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

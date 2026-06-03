@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#614](https://github.com/nearform/fast-jwt/pull/614) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
-2. 💪 Opened PR [#464](https://github.com/nearform/fastify-ravendb/pull/464) in [nearform/fastify-ravendb](https://github.com/nearform/fastify-ravendb)
-3. 💪 Opened PR [#166](https://github.com/nearform/fastify-casbin-rest/pull/166) in [nearform/fastify-casbin-rest](https://github.com/nearform/fastify-casbin-rest)
-4. 🗣 Commented on [#614](https://github.com/nearform/fast-jwt/pull/614#issuecomment-4603283839) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
-5. 🎉 Merged PR [#135](https://github.com/mercurius-js/auth/pull/135) in [mercurius-js/auth](https://github.com/mercurius-js/auth)
+1. 💪 Opened PR [#503](https://github.com/nearform/mercurius-dynamic-schema/pull/503) in [nearform/mercurius-dynamic-schema](https://github.com/nearform/mercurius-dynamic-schema)
+2. 🎉 Merged PR [#614](https://github.com/nearform/fast-jwt/pull/614) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
+3. 💪 Opened PR [#464](https://github.com/nearform/fastify-ravendb/pull/464) in [nearform/fastify-ravendb](https://github.com/nearform/fastify-ravendb)
+4. 💪 Opened PR [#166](https://github.com/nearform/fastify-casbin-rest/pull/166) in [nearform/fastify-casbin-rest](https://github.com/nearform/fastify-casbin-rest)
+5. 🗣 Commented on [#614](https://github.com/nearform/fast-jwt/pull/614#issuecomment-4603283839) in [nearform/fast-jwt](https://github.com/nearform/fast-jwt)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

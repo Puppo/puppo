@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/aovestdipaperino/tokensave/pull/96) in [aovestdipaperino/tokensave](https://github.com/aovestdipaperino/tokensave)
-2. 💪 Opened PR [#96](https://github.com/aovestdipaperino/tokensave/pull/96) in [aovestdipaperino/tokensave](https://github.com/aovestdipaperino/tokensave)
-3. 🎉 Merged PR [#581](https://github.com/nearform/mercurius-federation-info/pull/581) in [nearform/mercurius-federation-info](https://github.com/nearform/mercurius-federation-info)
-4. 💪 Opened PR [#581](https://github.com/nearform/mercurius-federation-info/pull/581) in [nearform/mercurius-federation-info](https://github.com/nearform/mercurius-federation-info)
-5. 💪 Opened PR [#503](https://github.com/nearform/mercurius-dynamic-schema/pull/503) in [nearform/mercurius-dynamic-schema](https://github.com/nearform/mercurius-dynamic-schema)
+1. 🗣 Commented on [#90](https://github.com/TheCodePace/fastify-skills/pull/90#issuecomment-4650184282) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+2. 🗣 Commented on [#73](https://github.com/TheCodePace/fastify-skills/pull/73#issuecomment-4650185469) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+3. 🗣 Commented on [#89](https://github.com/TheCodePace/fastify-skills/pull/89#issuecomment-4650183622) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+4. 🗣 Commented on [#64](https://github.com/TheCodePace/fastify-skills/pull/64#issuecomment-4650112636) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+5. 🗣 Commented on [#66](https://github.com/TheCodePace/fastify-skills/pull/66#issuecomment-4650111742) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

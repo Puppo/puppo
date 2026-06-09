@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/TheCodePace/fastify-http-query/pull/3) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-2. 🎉 Merged PR [#2](https://github.com/TheCodePace/fastify-http-query/pull/2) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-3. 🗣 Commented on [#90](https://github.com/TheCodePace/fastify-skills/pull/90#issuecomment-4650184282) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-4. 🗣 Commented on [#73](https://github.com/TheCodePace/fastify-skills/pull/73#issuecomment-4650185469) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-5. 🗣 Commented on [#89](https://github.com/TheCodePace/fastify-skills/pull/89#issuecomment-4650183622) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 🎉 Merged PR [#3](https://github.com/TheCodePace/fastify-http-query/pull/3) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+2. 💪 Opened PR [#3](https://github.com/TheCodePace/fastify-http-query/pull/3) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+3. 🎉 Merged PR [#2](https://github.com/TheCodePace/fastify-http-query/pull/2) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+4. 🗣 Commented on [#90](https://github.com/TheCodePace/fastify-skills/pull/90#issuecomment-4650184282) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+5. 🗣 Commented on [#73](https://github.com/TheCodePace/fastify-skills/pull/73#issuecomment-4650185469) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

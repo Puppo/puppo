@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/TheCodePace/fastify-http-query/pull/3) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-2. 💪 Opened PR [#3](https://github.com/TheCodePace/fastify-http-query/pull/3) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-3. 🎉 Merged PR [#2](https://github.com/TheCodePace/fastify-http-query/pull/2) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-4. 🗣 Commented on [#90](https://github.com/TheCodePace/fastify-skills/pull/90#issuecomment-4650184282) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-5. 🗣 Commented on [#73](https://github.com/TheCodePace/fastify-skills/pull/73#issuecomment-4650185469) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. ❌ Closed PR [#1](https://github.com/Puppo/sql/pull/1) in [Puppo/sql](https://github.com/Puppo/sql)
+2. 🗣 Commented on [#1](https://github.com/Puppo/sql/pull/1#issuecomment-4665241340) in [Puppo/sql](https://github.com/Puppo/sql)
+3. 💪 Opened PR [#236](https://github.com/nearform/sql/pull/236) in [nearform/sql](https://github.com/nearform/sql)
+4. 💪 Opened PR [#1](https://github.com/Puppo/sql/pull/1) in [Puppo/sql](https://github.com/Puppo/sql)
+5. 🎉 Merged PR [#12](https://github.com/TheCodePace/fastify-http-query/pull/12) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

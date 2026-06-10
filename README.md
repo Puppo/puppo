@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Puppo/sql/pull/1) in [Puppo/sql](https://github.com/Puppo/sql)
-2. 🗣 Commented on [#1](https://github.com/Puppo/sql/pull/1#issuecomment-4665241340) in [Puppo/sql](https://github.com/Puppo/sql)
-3. 💪 Opened PR [#236](https://github.com/nearform/sql/pull/236) in [nearform/sql](https://github.com/nearform/sql)
-4. 💪 Opened PR [#1](https://github.com/Puppo/sql/pull/1) in [Puppo/sql](https://github.com/Puppo/sql)
-5. 🎉 Merged PR [#12](https://github.com/TheCodePace/fastify-http-query/pull/12) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+1. 💪 Opened PR [#16](https://github.com/TheCodePace/fastify-http-query/pull/16) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+2. 🎉 Merged PR [#15](https://github.com/TheCodePace/fastify-http-query/pull/15) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+3. 💪 Opened PR [#15](https://github.com/TheCodePace/fastify-http-query/pull/15) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+4. 🎉 Merged PR [#14](https://github.com/TheCodePace/fastify-http-query/pull/14) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+5. 💪 Opened PR [#14](https://github.com/TheCodePace/fastify-http-query/pull/14) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

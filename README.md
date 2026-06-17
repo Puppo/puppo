@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#256](https://github.com/mcollina/mqemitter/pull/256) in [mcollina/mqemitter](https://github.com/mcollina/mqemitter)
-2. 💪 Opened PR [#239](https://github.com/mcollina/async-cache-dedupe/pull/239) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
-3. 🎉 Merged PR [#6785](https://github.com/fastify/fastify/pull/6785) in [fastify/fastify](https://github.com/fastify/fastify)
-4. 💪 Opened PR [#6785](https://github.com/fastify/fastify/pull/6785) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 🎉 Merged PR [#2](https://github.com/Puppo/minesweeper/pull/2) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
+1. 💪 Opened PR [#95](https://github.com/mcollina/fastify-html/pull/95) in [mcollina/fastify-html](https://github.com/mcollina/fastify-html)
+2. 💪 Opened PR [#256](https://github.com/mcollina/mqemitter/pull/256) in [mcollina/mqemitter](https://github.com/mcollina/mqemitter)
+3. 💪 Opened PR [#239](https://github.com/mcollina/async-cache-dedupe/pull/239) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
+4. 🎉 Merged PR [#6785](https://github.com/fastify/fastify/pull/6785) in [fastify/fastify](https://github.com/fastify/fastify)
+5. 💪 Opened PR [#6785](https://github.com/fastify/fastify/pull/6785) in [fastify/fastify](https://github.com/fastify/fastify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

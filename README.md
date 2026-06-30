@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/TheCodePace/fastify-http-query/pull/20) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-2. 🎉 Merged PR [#19](https://github.com/TheCodePace/fastify-http-query/pull/19) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-3. 💪 Opened PR [#19](https://github.com/TheCodePace/fastify-http-query/pull/19) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-4. 🎉 Merged PR [#239](https://github.com/mcollina/async-cache-dedupe/pull/239) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
-5. 🎉 Merged PR [#256](https://github.com/mcollina/mqemitter/pull/256) in [mcollina/mqemitter](https://github.com/mcollina/mqemitter)
+1. 🗣 Commented on [#17](https://github.com/TheCodePace/fastify-http-query/pull/17#issuecomment-4842764088) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+2. 🎉 Merged PR [#20](https://github.com/TheCodePace/fastify-http-query/pull/20) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+3. 💪 Opened PR [#20](https://github.com/TheCodePace/fastify-http-query/pull/20) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+4. 🎉 Merged PR [#19](https://github.com/TheCodePace/fastify-http-query/pull/19) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+5. 💪 Opened PR [#19](https://github.com/TheCodePace/fastify-http-query/pull/19) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

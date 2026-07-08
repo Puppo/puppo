@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#231](https://github.com/nearform/fastify-secrets-hashicorp/pull/231) in [nearform/fastify-secrets-hashicorp](https://github.com/nearform/fastify-secrets-hashicorp)
-2. 🗣 Commented on [#21](https://github.com/TheCodePace/fastify-http-query/pull/21#issuecomment-4880781499) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-3. 🎉 Merged PR [#24](https://github.com/TheCodePace/fastify-http-query/pull/24) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-4. 💪 Opened PR [#24](https://github.com/TheCodePace/fastify-http-query/pull/24) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-5. 🗣 Commented on [#17](https://github.com/TheCodePace/fastify-http-query/pull/17#issuecomment-4842764088) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+1. 🎉 Merged PR [#594](https://github.com/fastify/fastify-static/pull/594) in [fastify/fastify-static](https://github.com/fastify/fastify-static)
+2. 💪 Opened PR [#426](https://github.com/nearform/fastify-auth0-verify/pull/426) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+3. 💪 Opened PR [#594](https://github.com/fastify/fastify-static/pull/594) in [fastify/fastify-static](https://github.com/fastify/fastify-static)
+4. 💪 Opened PR [#231](https://github.com/nearform/fastify-secrets-hashicorp/pull/231) in [nearform/fastify-secrets-hashicorp](https://github.com/nearform/fastify-secrets-hashicorp)
+5. 🗣 Commented on [#21](https://github.com/TheCodePace/fastify-http-query/pull/21#issuecomment-4880781499) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

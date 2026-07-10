@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/nearform/fastify-auth0-verify/pull/422#issuecomment-4922696156) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
-2. 🗣 Commented on [#423](https://github.com/nearform/fastify-auth0-verify/pull/423#issuecomment-4922693687) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
-3. 🎉 Merged PR [#427](https://github.com/nearform/fastify-auth0-verify/pull/427) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
-4. 💪 Opened PR [#427](https://github.com/nearform/fastify-auth0-verify/pull/427) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
-5. ❌ Closed PR [#426](https://github.com/nearform/fastify-auth0-verify/pull/426) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+1. 💪 Opened PR [#25](https://github.com/TheCodePace/fastify-http-query/pull/25) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+2. 🗣 Commented on [#422](https://github.com/nearform/fastify-auth0-verify/pull/422#issuecomment-4922696156) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+3. 🗣 Commented on [#423](https://github.com/nearform/fastify-auth0-verify/pull/423#issuecomment-4922693687) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+4. 🎉 Merged PR [#427](https://github.com/nearform/fastify-auth0-verify/pull/427) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+5. 💪 Opened PR [#427](https://github.com/nearform/fastify-auth0-verify/pull/427) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

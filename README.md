@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/TheCodePace/fastify-skills/pull/114) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-2. 💪 Opened PR [#114](https://github.com/TheCodePace/fastify-skills/pull/114) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. 🎉 Merged PR [#113](https://github.com/TheCodePace/fastify-skills/pull/113) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-4. 🗣 Commented on [#2](https://github.com/TheCodePace/fastify-skills/pull/2#issuecomment-4938599657) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-5. ❌ Closed PR [#2](https://github.com/TheCodePace/fastify-skills/pull/2) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 🔒 Closed issue [#18](https://github.com/TheCodePace/fastify-skills/issues/18) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+2. 🎉 Merged PR [#114](https://github.com/TheCodePace/fastify-skills/pull/114) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+3. 💪 Opened PR [#114](https://github.com/TheCodePace/fastify-skills/pull/114) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+4. 🎉 Merged PR [#113](https://github.com/TheCodePace/fastify-skills/pull/113) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+5. 🗣 Commented on [#2](https://github.com/TheCodePace/fastify-skills/pull/2#issuecomment-4938599657) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

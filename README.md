@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/TheCodePace/fastify-skills/issues/23) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-2. 🔒 Closed issue [#21](https://github.com/TheCodePace/fastify-skills/issues/21) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. 🔒 Closed issue [#22](https://github.com/TheCodePace/fastify-skills/issues/22) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-4. 🔒 Closed issue [#17](https://github.com/TheCodePace/fastify-skills/issues/17) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-5. 🔒 Closed issue [#16](https://github.com/TheCodePace/fastify-skills/issues/16) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 🔒 Closed issue [#19](https://github.com/TheCodePace/fastify-skills/issues/19) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+2. 🔒 Closed issue [#24](https://github.com/TheCodePace/fastify-skills/issues/24) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+3. 🔒 Closed issue [#23](https://github.com/TheCodePace/fastify-skills/issues/23) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+4. 🔒 Closed issue [#21](https://github.com/TheCodePace/fastify-skills/issues/21) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+5. 🔒 Closed issue [#22](https://github.com/TheCodePace/fastify-skills/issues/22) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

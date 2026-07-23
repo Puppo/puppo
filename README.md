@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
-2. 💪 Opened PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
-3. 🎉 Merged PR [#30](https://github.com/TheCodePace/fastify-http-query/pull/30) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-4. 💪 Opened PR [#30](https://github.com/TheCodePace/fastify-http-query/pull/30) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-5. 🎉 Merged PR [#123](https://github.com/TheCodePace/fastify-skills/pull/123) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 💪 Opened PR [#241](https://github.com/nearform/sql/pull/241) in [nearform/sql](https://github.com/nearform/sql)
+2. 🎉 Merged PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
+3. 💪 Opened PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
+4. 🎉 Merged PR [#30](https://github.com/TheCodePace/fastify-http-query/pull/30) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+5. 💪 Opened PR [#30](https://github.com/TheCodePace/fastify-http-query/pull/30) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

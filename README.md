@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#241](https://github.com/nearform/sql/pull/241) in [nearform/sql](https://github.com/nearform/sql)
-2. 🎉 Merged PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
-3. 💪 Opened PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
-4. 🎉 Merged PR [#30](https://github.com/TheCodePace/fastify-http-query/pull/30) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-5. 💪 Opened PR [#30](https://github.com/TheCodePace/fastify-http-query/pull/30) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+1. 🎉 Merged PR [#1435](https://github.com/fastify/fastify-passport/pull/1435) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
+2. 💪 Opened PR [#1435](https://github.com/fastify/fastify-passport/pull/1435) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
+3. 💪 Opened PR [#1434](https://github.com/fastify/fastify-passport/pull/1434) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
+4. 💪 Opened PR [#241](https://github.com/nearform/sql/pull/241) in [nearform/sql](https://github.com/nearform/sql)
+5. 🎉 Merged PR [#3](https://github.com/Puppo/minesweeper/pull/3) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

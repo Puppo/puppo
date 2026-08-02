@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/mcollina/fastify-sandbox/pull/42) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
-2. 💪 Opened PR [#2](https://github.com/Puppo/fastify-sandbox/pull/2) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
-3. 💪 Opened PR [#1](https://github.com/Puppo/fastify-sandbox/pull/1) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
-4. 💪 Opened PR [#195](https://github.com/fastify/fast-uri/pull/195) in [fastify/fast-uri](https://github.com/fastify/fast-uri)
-5. ❌ Closed PR [#1](https://github.com/Puppo/fast-uri/pull/1) in [Puppo/fast-uri](https://github.com/Puppo/fast-uri)
+1. 💪 Opened PR [#128](https://github.com/fastify/restartable/pull/128) in [fastify/restartable](https://github.com/fastify/restartable)
+2. 💪 Opened PR [#42](https://github.com/mcollina/fastify-sandbox/pull/42) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
+3. 💪 Opened PR [#2](https://github.com/Puppo/fastify-sandbox/pull/2) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
+4. 💪 Opened PR [#1](https://github.com/Puppo/fastify-sandbox/pull/1) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
+5. 💪 Opened PR [#195](https://github.com/fastify/fast-uri/pull/195) in [fastify/fast-uri](https://github.com/fastify/fast-uri)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

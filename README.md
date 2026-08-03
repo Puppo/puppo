@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/mcollina/fastify-sandbox/issues/43) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
-2. 🗣 Commented on [#195](https://github.com/fastify/fast-uri/pull/195#issuecomment-5166440072) in [fastify/fast-uri](https://github.com/fastify/fast-uri)
-3. 💪 Opened PR [#4](https://github.com/mcollina/worker/pull/4) in [mcollina/worker](https://github.com/mcollina/worker)
-4. 💪 Opened PR [#128](https://github.com/fastify/restartable/pull/128) in [fastify/restartable](https://github.com/fastify/restartable)
-5. 💪 Opened PR [#42](https://github.com/mcollina/fastify-sandbox/pull/42) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
+1. 💪 Opened PR [#246](https://github.com/mcollina/async-cache-dedupe/pull/246) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
+2. 🔒 Closed issue [#43](https://github.com/mcollina/fastify-sandbox/issues/43) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
+3. ❌ Closed PR [#42](https://github.com/mcollina/fastify-sandbox/pull/42) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
+4. 🎉 Merged PR [#195](https://github.com/fastify/fast-uri/pull/195) in [fastify/fast-uri](https://github.com/fastify/fast-uri)
+5. ❗ Opened issue [#43](https://github.com/mcollina/fastify-sandbox/issues/43) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

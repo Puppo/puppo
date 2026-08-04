@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-2. 💪 Opened PR [#246](https://github.com/mcollina/async-cache-dedupe/pull/246) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
-3. 🔒 Closed issue [#43](https://github.com/mcollina/fastify-sandbox/issues/43) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
-4. ❌ Closed PR [#42](https://github.com/mcollina/fastify-sandbox/pull/42) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
-5. 🎉 Merged PR [#195](https://github.com/fastify/fast-uri/pull/195) in [fastify/fast-uri](https://github.com/fastify/fast-uri)
+1. 💪 Opened PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+2. 🎉 Merged PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+3. 💪 Opened PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+4. 💪 Opened PR [#246](https://github.com/mcollina/async-cache-dedupe/pull/246) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
+5. 🔒 Closed issue [#43](https://github.com/mcollina/fastify-sandbox/issues/43) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-2. 🎉 Merged PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-3. 💪 Opened PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-4. 💪 Opened PR [#246](https://github.com/mcollina/async-cache-dedupe/pull/246) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
-5. 🔒 Closed issue [#43](https://github.com/mcollina/fastify-sandbox/issues/43) in [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox)
+1. 🎉 Merged PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+2. 🗣 Commented on [#77](https://github.com/ilteoood/fastify-website-new/pull/77#issuecomment-5189673288) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+3. 💪 Opened PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+4. 🎉 Merged PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+5. 💪 Opened PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

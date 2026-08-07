@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-2. 🗣 Commented on [#77](https://github.com/ilteoood/fastify-website-new/pull/77#issuecomment-5189673288) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-3. 💪 Opened PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-4. 🎉 Merged PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-5. 💪 Opened PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+1. 🎉 Merged PR [#1434](https://github.com/fastify/fastify-passport/pull/1434) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
+2. 🎉 Merged PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+3. 🗣 Commented on [#77](https://github.com/ilteoood/fastify-website-new/pull/77#issuecomment-5189673288) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+4. 💪 Opened PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+5. 🎉 Merged PR [#75](https://github.com/ilteoood/fastify-website-new/pull/75) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

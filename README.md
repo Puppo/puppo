@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/nearform/fastify-jwt-jwks/pull/66) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
-2. ❌ Closed PR [#47](https://github.com/fastify/org-admin/pull/47) in [fastify/org-admin](https://github.com/fastify/org-admin)
-3. 💪 Opened PR [#47](https://github.com/fastify/org-admin/pull/47) in [fastify/org-admin](https://github.com/fastify/org-admin)
-4. 🎉 Merged PR [#1434](https://github.com/fastify/fastify-passport/pull/1434) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
-5. 🎉 Merged PR [#77](https://github.com/ilteoood/fastify-website-new/pull/77) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
+1. 💪 Opened PR [#48](https://github.com/fastify/org-admin/pull/48) in [fastify/org-admin](https://github.com/fastify/org-admin)
+2. 🎉 Merged PR [#66](https://github.com/nearform/fastify-jwt-jwks/pull/66) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
+3. 💪 Opened PR [#66](https://github.com/nearform/fastify-jwt-jwks/pull/66) in [nearform/fastify-jwt-jwks](https://github.com/nearform/fastify-jwt-jwks)
+4. ❌ Closed PR [#47](https://github.com/fastify/org-admin/pull/47) in [fastify/org-admin](https://github.com/fastify/org-admin)
+5. 💪 Opened PR [#47](https://github.com/fastify/org-admin/pull/47) in [fastify/org-admin](https://github.com/fastify/org-admin)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

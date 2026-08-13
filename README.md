@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#481](https://github.com/fastify/website/pull/481#issuecomment-5269301234) in [fastify/website](https://github.com/fastify/website)
-2. 🎉 Merged PR [#89](https://github.com/ilteoood/fastify-website-new/pull/89) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-3. 💪 Opened PR [#28](https://github.com/jasnell/nceu/pull/28) in [jasnell/nceu](https://github.com/jasnell/nceu)
-4. 💪 Opened PR [#89](https://github.com/ilteoood/fastify-website-new/pull/89) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
-5. ❌ Closed PR [#246](https://github.com/mcollina/async-cache-dedupe/pull/246) in [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe)
+1. 🗣 Commented on [#442](https://github.com/nearform/fastify-auth0-verify/pull/442#issuecomment-5277163645) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+2. ℹ️ Unassigned PR [#442](https://github.com/nearform/fastify-auth0-verify/pull/442) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+3. ℹ️ Unassigned PR [#442](https://github.com/nearform/fastify-auth0-verify/pull/442) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+4. 🗣 Commented on [#481](https://github.com/fastify/website/pull/481#issuecomment-5269301234) in [fastify/website](https://github.com/fastify/website)
+5. 🎉 Merged PR [#89](https://github.com/ilteoood/fastify-website-new/pull/89) in [ilteoood/fastify-website-new](https://github.com/ilteoood/fastify-website-new)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

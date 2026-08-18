@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#873](https://github.com/fastify/fast-json-stringify/pull/873) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
-2. 🎉 Merged PR [#28](https://github.com/jasnell/nceu/pull/28) in [jasnell/nceu](https://github.com/jasnell/nceu)
-3. 💪 Opened PR [#169](https://github.com/fastify/fastify-flash/pull/169) in [fastify/fastify-flash](https://github.com/fastify/fastify-flash)
-4. 💪 Opened PR [#873](https://github.com/fastify/fast-json-stringify/pull/873) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
-5. 💪 Opened PR [#525](https://github.com/fastify/point-of-view/pull/525) in [fastify/point-of-view](https://github.com/fastify/point-of-view)
+1. 🎉 Merged PR [#442](https://github.com/nearform/fastify-auth0-verify/pull/442) in [nearform/fastify-auth0-verify](https://github.com/nearform/fastify-auth0-verify)
+2. 🎉 Merged PR [#525](https://github.com/fastify/point-of-view/pull/525) in [fastify/point-of-view](https://github.com/fastify/point-of-view)
+3. 💪 Opened PR [#24](https://github.com/fastify/fastify-fetch/pull/24) in [fastify/fastify-fetch](https://github.com/fastify/fastify-fetch)
+4. 🎉 Merged PR [#873](https://github.com/fastify/fast-json-stringify/pull/873) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
+5. 🎉 Merged PR [#28](https://github.com/jasnell/nceu/pull/28) in [jasnell/nceu](https://github.com/jasnell/nceu)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

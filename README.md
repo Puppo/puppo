@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/fastify/fastify-fetch/pull/24) in [fastify/fastify-fetch](https://github.com/fastify/fastify-fetch)
-2. 🎉 Merged PR [#169](https://github.com/fastify/fastify-flash/pull/169) in [fastify/fastify-flash](https://github.com/fastify/fastify-flash)
-3. 💪 Opened PR [#189](https://github.com/fastify/secure-json-parse/pull/189) in [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse)
-4. 🎉 Merged PR [#101](https://github.com/fastify/deepmerge/pull/101) in [fastify/deepmerge](https://github.com/fastify/deepmerge)
-5. 💪 Opened PR [#101](https://github.com/fastify/deepmerge/pull/101) in [fastify/deepmerge](https://github.com/fastify/deepmerge)
+1. 💪 Opened PR [#228](https://github.com/fastify/fastify-hotwire/pull/228) in [fastify/fastify-hotwire](https://github.com/fastify/fastify-hotwire)
+2. 💪 Opened PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
+3. 💪 Opened PR [#179](https://github.com/fastify/fastify-circuit-breaker/pull/179) in [fastify/fastify-circuit-breaker](https://github.com/fastify/fastify-circuit-breaker)
+4. 💪 Opened PR [#426](https://github.com/fastify/fastify-compress/pull/426) in [fastify/fastify-compress](https://github.com/fastify/fastify-compress)
+5. 💪 Opened PR [#95](https://github.com/fastify/one-line-logger/pull/95) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

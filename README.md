@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#228](https://github.com/fastify/fastify-hotwire/pull/228) in [fastify/fastify-hotwire](https://github.com/fastify/fastify-hotwire)
-2. 💪 Opened PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
-3. 💪 Opened PR [#179](https://github.com/fastify/fastify-circuit-breaker/pull/179) in [fastify/fastify-circuit-breaker](https://github.com/fastify/fastify-circuit-breaker)
-4. 💪 Opened PR [#426](https://github.com/fastify/fastify-compress/pull/426) in [fastify/fastify-compress](https://github.com/fastify/fastify-compress)
-5. 💪 Opened PR [#95](https://github.com/fastify/one-line-logger/pull/95) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
+1. 💪 Opened PR [#488](https://github.com/fastify/website/pull/488) in [fastify/website](https://github.com/fastify/website)
+2. 💪 Opened PR [#41](https://github.com/TheCodePace/fastify-http-query/pull/41) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+3. 🗣 Commented on [#487](https://github.com/fastify/website/issues/487#issuecomment-5342787626) in [fastify/website](https://github.com/fastify/website)
+4. 💪 Opened PR [#228](https://github.com/fastify/fastify-hotwire/pull/228) in [fastify/fastify-hotwire](https://github.com/fastify/fastify-hotwire)
+5. 💪 Opened PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

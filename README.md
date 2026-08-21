@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#489](https://github.com/fastify/website/pull/489) in [fastify/website](https://github.com/fastify/website)
-2. 🎉 Merged PR [#488](https://github.com/fastify/website/pull/488) in [fastify/website](https://github.com/fastify/website)
-3. 💪 Opened PR [#489](https://github.com/fastify/website/pull/489) in [fastify/website](https://github.com/fastify/website)
-4. 🗣 Commented on [#488](https://github.com/fastify/website/pull/488#issuecomment-5346381111) in [fastify/website](https://github.com/fastify/website)
-5. 💪 Opened PR [#488](https://github.com/fastify/website/pull/488) in [fastify/website](https://github.com/fastify/website)
+1. ❌ Closed PR [#2](https://github.com/Puppo/fastify-sandbox/pull/2) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
+2. ❌ Closed PR [#1](https://github.com/Puppo/fastify-sandbox/pull/1) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
+3. ❌ Closed PR [#41](https://github.com/TheCodePace/fastify-http-query/pull/41) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+4. 🎉 Merged PR [#495](https://github.com/fastify/website/pull/495) in [fastify/website](https://github.com/fastify/website)
+5. 💪 Opened PR [#495](https://github.com/fastify/website/pull/495) in [fastify/website](https://github.com/fastify/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

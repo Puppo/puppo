@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/fastify/org-admin/pull/48) in [fastify/org-admin](https://github.com/fastify/org-admin)
-2. ❌ Closed PR [#2](https://github.com/Puppo/fastify-sandbox/pull/2) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
-3. ❌ Closed PR [#1](https://github.com/Puppo/fastify-sandbox/pull/1) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
-4. ❌ Closed PR [#41](https://github.com/TheCodePace/fastify-http-query/pull/41) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-5. 🎉 Merged PR [#495](https://github.com/fastify/website/pull/495) in [fastify/website](https://github.com/fastify/website)
+1. 🗣 Commented on [#128](https://github.com/fastify/restartable/pull/128#issuecomment-5407601347) in [fastify/restartable](https://github.com/fastify/restartable)
+2. 🎉 Merged PR [#48](https://github.com/fastify/org-admin/pull/48) in [fastify/org-admin](https://github.com/fastify/org-admin)
+3. ❌ Closed PR [#2](https://github.com/Puppo/fastify-sandbox/pull/2) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
+4. ❌ Closed PR [#1](https://github.com/Puppo/fastify-sandbox/pull/1) in [Puppo/fastify-sandbox](https://github.com/Puppo/fastify-sandbox)
+5. ❌ Closed PR [#41](https://github.com/TheCodePace/fastify-http-query/pull/41) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

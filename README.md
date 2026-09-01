@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Puppo/recipe-radar-with-ai/pull/3) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
-2. 💪 Opened PR [#3](https://github.com/Puppo/recipe-radar-with-ai/pull/3) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
-3. 🎉 Merged PR [#426](https://github.com/fastify/fastify-compress/pull/426) in [fastify/fastify-compress](https://github.com/fastify/fastify-compress)
-4. 🗣 Commented on [#128](https://github.com/fastify/restartable/pull/128#issuecomment-5407601347) in [fastify/restartable](https://github.com/fastify/restartable)
-5. 🎉 Merged PR [#48](https://github.com/fastify/org-admin/pull/48) in [fastify/org-admin](https://github.com/fastify/org-admin)
+1. 💪 Opened PR [#129](https://github.com/TheCodePace/fastify-skills/pull/129) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+2. ❌ Closed PR [#363](https://github.com/fastify/avvio/pull/363) in [fastify/avvio](https://github.com/fastify/avvio)
+3. ❌ Closed PR [#496](https://github.com/fastify/fastify-reply-from/pull/496) in [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from)
+4. ℹ️ Reopened PR [#363](https://github.com/fastify/avvio/pull/363) in [fastify/avvio](https://github.com/fastify/avvio)
+5. 💪 Opened PR [#496](https://github.com/fastify/fastify-reply-from/pull/496) in [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

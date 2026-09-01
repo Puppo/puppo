@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
-2. 💪 Opened PR [#129](https://github.com/TheCodePace/fastify-skills/pull/129) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. ❌ Closed PR [#363](https://github.com/fastify/avvio/pull/363) in [fastify/avvio](https://github.com/fastify/avvio)
-4. ❌ Closed PR [#496](https://github.com/fastify/fastify-reply-from/pull/496) in [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from)
-5. ℹ️ Reopened PR [#363](https://github.com/fastify/avvio/pull/363) in [fastify/avvio](https://github.com/fastify/avvio)
+1. 🗣 Commented on [#95](https://github.com/fastify/one-line-logger/pull/95#issuecomment-5496256941) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
+2. 🎉 Merged PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
+3. 💪 Opened PR [#129](https://github.com/TheCodePace/fastify-skills/pull/129) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+4. ❌ Closed PR [#363](https://github.com/fastify/avvio/pull/363) in [fastify/avvio](https://github.com/fastify/avvio)
+5. ❌ Closed PR [#496](https://github.com/fastify/fastify-reply-from/pull/496) in [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

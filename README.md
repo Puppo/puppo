@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
-2. 💪 Opened PR [#55](https://github.com/fastify/sse/pull/55) in [fastify/sse](https://github.com/fastify/sse)
-3. 🗣 Commented on [#95](https://github.com/fastify/one-line-logger/pull/95#issuecomment-5496256941) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
-4. 🎉 Merged PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
-5. 💪 Opened PR [#129](https://github.com/TheCodePace/fastify-skills/pull/129) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+1. 🎉 Merged PR [#95](https://github.com/fastify/one-line-logger/pull/95) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
+2. 💪 Opened PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
+3. 💪 Opened PR [#55](https://github.com/fastify/sse/pull/55) in [fastify/sse](https://github.com/fastify/sse)
+4. 🗣 Commented on [#95](https://github.com/fastify/one-line-logger/pull/95#issuecomment-5496256941) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
+5. 🎉 Merged PR [#1208](https://github.com/fastify/fastify-nextjs/pull/1208) in [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Puppo/recipe-radar-with-ai/pull/4) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
-2. 💪 Opened PR [#4](https://github.com/Puppo/recipe-radar-with-ai/pull/4) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
-3. 🎉 Merged PR [#95](https://github.com/fastify/one-line-logger/pull/95) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
-4. 💪 Opened PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
-5. 💪 Opened PR [#55](https://github.com/fastify/sse/pull/55) in [fastify/sse](https://github.com/fastify/sse)
+1. 💪 Opened PR [#794](https://github.com/tstyche/tstyche/pull/794) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
+2. 🎉 Merged PR [#4](https://github.com/Puppo/recipe-radar-with-ai/pull/4) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
+3. 💪 Opened PR [#4](https://github.com/Puppo/recipe-radar-with-ai/pull/4) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
+4. 🎉 Merged PR [#95](https://github.com/fastify/one-line-logger/pull/95) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
+5. 💪 Opened PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

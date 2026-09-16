@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5696729900) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
-2. 💪 Opened PR [#1](https://github.com/Puppo/talks/pull/1) in [Puppo/talks](https://github.com/Puppo/talks)
-3. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5692533284) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
-4. 💪 Opened PR [#794](https://github.com/tstyche/tstyche/pull/794) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
-5. 🎉 Merged PR [#4](https://github.com/Puppo/recipe-radar-with-ai/pull/4) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
+1. 🗣 Commented on [#1](https://github.com/tstyche/tstyche-skills/pull/1#issuecomment-5699132753) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+2. 💪 Opened PR [#1](https://github.com/tstyche/tstyche-skills/pull/1) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+3. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5696729900) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
+4. 💪 Opened PR [#1](https://github.com/Puppo/talks/pull/1) in [Puppo/talks](https://github.com/Puppo/talks)
+5. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5692533284) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

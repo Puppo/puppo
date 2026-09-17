@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tstyche/tstyche-skills/pull/1#issuecomment-5699132753) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
-2. 💪 Opened PR [#1](https://github.com/tstyche/tstyche-skills/pull/1) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
-3. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5696729900) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
-4. 💪 Opened PR [#1](https://github.com/Puppo/talks/pull/1) in [Puppo/talks](https://github.com/Puppo/talks)
-5. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5692533284) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
+1. 🎉 Merged PR [#1](https://github.com/tstyche/tstyche-skills/pull/1) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+2. 🗣 Commented on [#794](https://github.com/tstyche/tstyche/pull/794#issuecomment-5717982251) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
+3. ❌ Closed PR [#794](https://github.com/tstyche/tstyche/pull/794) in [tstyche/tstyche](https://github.com/tstyche/tstyche)
+4. 🗣 Commented on [#1](https://github.com/tstyche/tstyche-skills/pull/1#issuecomment-5717914645) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+5. 🗣 Commented on [#1](https://github.com/tstyche/tstyche-skills/pull/1#issuecomment-5699132753) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

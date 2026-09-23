@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6573](https://github.com/fastify/fastify/pull/6573) in [fastify/fastify](https://github.com/fastify/fastify)
-2. ❌ Closed PR [#128](https://github.com/fastify/restartable/pull/128) in [fastify/restartable](https://github.com/fastify/restartable)
-3. 💪 Opened PR [#2](https://github.com/tstyche/tstyche-skills/pull/2) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
-4. 💪 Opened PR [#305](https://github.com/turkerdev/fastify-type-provider-zod/pull/305) in [turkerdev/fastify-type-provider-zod](https://github.com/turkerdev/fastify-type-provider-zod)
-5. 🎉 Merged PR [#1](https://github.com/Puppo/talks/pull/1) in [Puppo/talks](https://github.com/Puppo/talks)
+1. 🎉 Merged PR [#20](https://github.com/Puppo/xe-website/pull/20) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 🎉 Merged PR [#21](https://github.com/Puppo/xe-website/pull/21) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 💪 Opened PR [#21](https://github.com/Puppo/xe-website/pull/21) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. 💪 Opened PR [#20](https://github.com/Puppo/xe-website/pull/20) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+5. 🎉 Merged PR [#19](https://github.com/Puppo/xe-website/pull/19) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

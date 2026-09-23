@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/tstyche/tstyche-skills/pull/2) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
-2. 💪 Opened PR [#305](https://github.com/turkerdev/fastify-type-provider-zod/pull/305) in [turkerdev/fastify-type-provider-zod](https://github.com/turkerdev/fastify-type-provider-zod)
-3. 🎉 Merged PR [#1](https://github.com/Puppo/talks/pull/1) in [Puppo/talks](https://github.com/Puppo/talks)
-4. 🎉 Merged PR [#15](https://github.com/Puppo/xe-website/pull/15) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-5. 💪 Opened PR [#15](https://github.com/Puppo/xe-website/pull/15) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. ❌ Closed PR [#128](https://github.com/fastify/restartable/pull/128) in [fastify/restartable](https://github.com/fastify/restartable)
+2. 💪 Opened PR [#2](https://github.com/tstyche/tstyche-skills/pull/2) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+3. 💪 Opened PR [#305](https://github.com/turkerdev/fastify-type-provider-zod/pull/305) in [turkerdev/fastify-type-provider-zod](https://github.com/turkerdev/fastify-type-provider-zod)
+4. 🎉 Merged PR [#1](https://github.com/Puppo/talks/pull/1) in [Puppo/talks](https://github.com/Puppo/talks)
+5. 🎉 Merged PR [#15](https://github.com/Puppo/xe-website/pull/15) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

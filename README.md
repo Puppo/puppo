@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Puppo/xe-website/pull/20) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. 🎉 Merged PR [#21](https://github.com/Puppo/xe-website/pull/21) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-3. 💪 Opened PR [#21](https://github.com/Puppo/xe-website/pull/21) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-4. 💪 Opened PR [#20](https://github.com/Puppo/xe-website/pull/20) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-5. 🎉 Merged PR [#19](https://github.com/Puppo/xe-website/pull/19) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. 🎉 Merged PR [#18](https://github.com/Puppo/xe-website/pull/18) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 🎉 Merged PR [#20](https://github.com/Puppo/xe-website/pull/20) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 🎉 Merged PR [#21](https://github.com/Puppo/xe-website/pull/21) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. 💪 Opened PR [#21](https://github.com/Puppo/xe-website/pull/21) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+5. 💪 Opened PR [#20](https://github.com/Puppo/xe-website/pull/20) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

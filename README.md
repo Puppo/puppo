@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Puppo/xe-website/pull/24) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. 🎉 Merged PR [#464](https://github.com/nearform/fastify-ravendb/pull/464) in [nearform/fastify-ravendb](https://github.com/nearform/fastify-ravendb)
-3. 🎉 Merged PR [#503](https://github.com/nearform/mercurius-dynamic-schema/pull/503) in [nearform/mercurius-dynamic-schema](https://github.com/nearform/mercurius-dynamic-schema)
-4. 🎉 Merged PR [#166](https://github.com/nearform/fastify-casbin-rest/pull/166) in [nearform/fastify-casbin-rest](https://github.com/nearform/fastify-casbin-rest)
-5. 💪 Opened PR [#23](https://github.com/Puppo/xe-website/pull/23) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. 🎉 Merged PR [#24](https://github.com/Puppo/xe-website/pull/24) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 🎉 Merged PR [#23](https://github.com/Puppo/xe-website/pull/23) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 💪 Opened PR [#24](https://github.com/Puppo/xe-website/pull/24) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. 🎉 Merged PR [#464](https://github.com/nearform/fastify-ravendb/pull/464) in [nearform/fastify-ravendb](https://github.com/nearform/fastify-ravendb)
+5. 🎉 Merged PR [#503](https://github.com/nearform/mercurius-dynamic-schema/pull/503) in [nearform/mercurius-dynamic-schema](https://github.com/nearform/mercurius-dynamic-schema)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

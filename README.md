@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Puppo/xe-website/pull/25) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. 💪 Opened PR [#25](https://github.com/Puppo/xe-website/pull/25) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-3. 💪 Opened PR [#3](https://github.com/tstyche/tstyche-skills/pull/3) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
-4. 🎉 Merged PR [#24](https://github.com/Puppo/xe-website/pull/24) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-5. 🎉 Merged PR [#23](https://github.com/Puppo/xe-website/pull/23) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. 💪 Opened PR [#27](https://github.com/Puppo/xe-website/pull/27) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 💪 Opened PR [#26](https://github.com/Puppo/xe-website/pull/26) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 🎉 Merged PR [#25](https://github.com/Puppo/xe-website/pull/25) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. 💪 Opened PR [#25](https://github.com/Puppo/xe-website/pull/25) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+5. 💪 Opened PR [#3](https://github.com/tstyche/tstyche-skills/pull/3) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

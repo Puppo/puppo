@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/tstyche/tstyche.org/pull/7) in [tstyche/tstyche.org](https://github.com/tstyche/tstyche.org)
-2. 🗣 Commented on [#7](https://github.com/tstyche/tstyche.org/pull/7#issuecomment-5906981062) in [tstyche/tstyche.org](https://github.com/tstyche/tstyche.org)
-3. 🗣 Commented on [#34](https://github.com/Puppo/xe-website/pull/34#issuecomment-5906771839) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-4. 💪 Opened PR [#7](https://github.com/tstyche/tstyche.org/pull/7) in [tstyche/tstyche.org](https://github.com/tstyche/tstyche.org)
-5. 🎉 Merged PR [#26](https://github.com/Puppo/xe-website/pull/26) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. 🎉 Merged PR [#2](https://github.com/tstyche/tstyche-skills/pull/2) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+2. 🎉 Merged PR [#625](https://github.com/nearform/fastify-slow-down/pull/625) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
+3. 🎉 Merged PR [#7](https://github.com/tstyche/tstyche.org/pull/7) in [tstyche/tstyche.org](https://github.com/tstyche/tstyche.org)
+4. 🗣 Commented on [#7](https://github.com/tstyche/tstyche.org/pull/7#issuecomment-5906981062) in [tstyche/tstyche.org](https://github.com/tstyche/tstyche.org)
+5. 🗣 Commented on [#34](https://github.com/Puppo/xe-website/pull/34#issuecomment-5906771839) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

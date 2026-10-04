@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/fastify/fastify-type-provider-json-schema-to-ts/pull/152) in [fastify/fastify-type-provider-json-schema-to-ts](https://github.com/fastify/fastify-type-provider-json-schema-to-ts)
-2. 💪 Opened PR [#231](https://github.com/fastify/fastify-accepts/pull/231) in [fastify/fastify-accepts](https://github.com/fastify/fastify-accepts)
-3. 🎉 Merged PR [#2](https://github.com/tstyche/tstyche-skills/pull/2) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
-4. 🎉 Merged PR [#625](https://github.com/nearform/fastify-slow-down/pull/625) in [nearform/fastify-slow-down](https://github.com/nearform/fastify-slow-down)
-5. 🎉 Merged PR [#7](https://github.com/tstyche/tstyche.org/pull/7) in [tstyche/tstyche.org](https://github.com/tstyche/tstyche.org)
+1. 💪 Opened PR [#498](https://github.com/fastify/fastify-reply-from/pull/498) in [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from)
+2. 💪 Opened PR [#172](https://github.com/fastify/fastify-routes-stats/pull/172) in [fastify/fastify-routes-stats](https://github.com/fastify/fastify-routes-stats)
+3. 💪 Opened PR [#150](https://github.com/fastify/fastify-routes/pull/150) in [fastify/fastify-routes](https://github.com/fastify/fastify-routes)
+4. 💪 Opened PR [#167](https://github.com/fastify/fastify-response-validation/pull/167) in [fastify/fastify-response-validation](https://github.com/fastify/fastify-response-validation)
+5. 💪 Opened PR [#259](https://github.com/fastify/fastify-request-context/pull/259) in [fastify/fastify-request-context](https://github.com/fastify/fastify-request-context)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

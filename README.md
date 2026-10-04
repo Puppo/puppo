@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/fastify/pre-commit/pull/122) in [fastify/pre-commit](https://github.com/fastify/pre-commit)
-2. 💪 Opened PR [#299](https://github.com/fastify/fastify-type-provider-typebox/pull/299) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
-3. 💪 Opened PR [#294](https://github.com/fastify/fastify-swagger-ui/pull/294) in [fastify/fastify-swagger-ui](https://github.com/fastify/fastify-swagger-ui)
-4. 💪 Opened PR [#1449](https://github.com/fastify/fastify-passport/pull/1449) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
-5. 💪 Opened PR [#170](https://github.com/fastify/fastify-flash/pull/170) in [fastify/fastify-flash](https://github.com/fastify/fastify-flash)
+1. 🎉 Merged PR [#102](https://github.com/fastify/deepmerge/pull/102) in [fastify/deepmerge](https://github.com/fastify/deepmerge)
+2. 🎉 Merged PR [#207](https://github.com/fastify/fastify-express/pull/207) in [fastify/fastify-express](https://github.com/fastify/fastify-express)
+3. 💪 Opened PR [#122](https://github.com/fastify/pre-commit/pull/122) in [fastify/pre-commit](https://github.com/fastify/pre-commit)
+4. 💪 Opened PR [#299](https://github.com/fastify/fastify-type-provider-typebox/pull/299) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
+5. 💪 Opened PR [#294](https://github.com/fastify/fastify-swagger-ui/pull/294) in [fastify/fastify-swagger-ui](https://github.com/fastify/fastify-swagger-ui)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

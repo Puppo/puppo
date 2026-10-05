@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/Puppo/xe-website/pull/39) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. 🎉 Merged PR [#421](https://github.com/fastify/fastify-cors/pull/421) in [fastify/fastify-cors](https://github.com/fastify/fastify-cors)
-3. 💪 Opened PR [#39](https://github.com/Puppo/xe-website/pull/39) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-4. 🎉 Merged PR [#168](https://github.com/fastify/fastify-elasticsearch/pull/168) in [fastify/fastify-elasticsearch](https://github.com/fastify/fastify-elasticsearch)
-5. 🎉 Merged PR [#247](https://github.com/fastify/fastify-env/pull/247) in [fastify/fastify-env](https://github.com/fastify/fastify-env)
+1. 🎉 Merged PR [#185](https://github.com/fastify/fastify-kafka/pull/185) in [fastify/fastify-kafka](https://github.com/fastify/fastify-kafka)
+2. 🎉 Merged PR [#432](https://github.com/fastify/fastify-jwt/pull/432) in [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt)
+3. 🎉 Merged PR [#229](https://github.com/fastify/fastify-hotwire/pull/229) in [fastify/fastify-hotwire](https://github.com/fastify/fastify-hotwire)
+4. 🎉 Merged PR [#322](https://github.com/fastify/fastify-helmet/pull/322) in [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet)
+5. 🎉 Merged PR [#212](https://github.com/fastify/fastify-awilix/pull/212) in [fastify/fastify-awilix](https://github.com/fastify/fastify-awilix)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

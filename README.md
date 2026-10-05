@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/fastify/fastify-kafka/pull/185) in [fastify/fastify-kafka](https://github.com/fastify/fastify-kafka)
-2. 🎉 Merged PR [#432](https://github.com/fastify/fastify-jwt/pull/432) in [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt)
-3. 🎉 Merged PR [#229](https://github.com/fastify/fastify-hotwire/pull/229) in [fastify/fastify-hotwire](https://github.com/fastify/fastify-hotwire)
-4. 🎉 Merged PR [#322](https://github.com/fastify/fastify-helmet/pull/322) in [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet)
-5. 🎉 Merged PR [#212](https://github.com/fastify/fastify-awilix/pull/212) in [fastify/fastify-awilix](https://github.com/fastify/fastify-awilix)
+1. 🎉 Merged PR [#40](https://github.com/Puppo/xe-website/pull/40) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 💪 Opened PR [#40](https://github.com/Puppo/xe-website/pull/40) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 🗣 Commented on [#532](https://github.com/fastify/fastify-autoload/pull/532#issuecomment-5999513385) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
+4. 💪 Opened PR [#533](https://github.com/fastify/fastify-autoload/pull/533) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
+5. 🎉 Merged PR [#149](https://github.com/fastify/process-warning/pull/149) in [fastify/process-warning](https://github.com/fastify/process-warning)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

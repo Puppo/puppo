@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#488](https://github.com/fastify/fastify-http-proxy/pull/488) in [fastify/fastify-http-proxy](https://github.com/fastify/fastify-http-proxy)
-2. 🎉 Merged PR [#383](https://github.com/fastify/fastify-websocket/pull/383) in [fastify/fastify-websocket](https://github.com/fastify/fastify-websocket)
-3. 🎉 Merged PR [#133](https://github.com/fastify/restartable/pull/133) in [fastify/restartable](https://github.com/fastify/restartable)
-4. 🎉 Merged PR [#102](https://github.com/fastify/deepmerge/pull/102) in [fastify/deepmerge](https://github.com/fastify/deepmerge)
-5. 🎉 Merged PR [#207](https://github.com/fastify/fastify-express/pull/207) in [fastify/fastify-express](https://github.com/fastify/fastify-express)
+1. 🎉 Merged PR [#39](https://github.com/Puppo/xe-website/pull/39) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 🎉 Merged PR [#421](https://github.com/fastify/fastify-cors/pull/421) in [fastify/fastify-cors](https://github.com/fastify/fastify-cors)
+3. 💪 Opened PR [#39](https://github.com/Puppo/xe-website/pull/39) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. 🎉 Merged PR [#168](https://github.com/fastify/fastify-elasticsearch/pull/168) in [fastify/fastify-elasticsearch](https://github.com/fastify/fastify-elasticsearch)
+5. 🎉 Merged PR [#247](https://github.com/fastify/fastify-env/pull/247) in [fastify/fastify-env](https://github.com/fastify/fastify-env)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

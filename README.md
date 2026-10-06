@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/fastify/sse/pull/59) in [fastify/sse](https://github.com/fastify/sse)
-2. 🎉 Merged PR [#259](https://github.com/fastify/fastify-request-context/pull/259) in [fastify/fastify-request-context](https://github.com/fastify/fastify-request-context)
-3. 🎉 Merged PR [#365](https://github.com/fastify/releasify/pull/365) in [fastify/releasify](https://github.com/fastify/releasify)
-4. 🎉 Merged PR [#82](https://github.com/fastify/fastify-opensearch/pull/82) in [fastify/fastify-opensearch](https://github.com/fastify/fastify-opensearch)
-5. 🎉 Merged PR [#57](https://github.com/fastify/fastify-valkey-glide/pull/57) in [fastify/fastify-valkey-glide](https://github.com/fastify/fastify-valkey-glide)
+1. 🎉 Merged PR [#96](https://github.com/fastify/one-line-logger/pull/96) in [fastify/one-line-logger](https://github.com/fastify/one-line-logger)
+2. 🎉 Merged PR [#529](https://github.com/fastify/point-of-view/pull/529) in [fastify/point-of-view](https://github.com/fastify/point-of-view)
+3. 🎉 Merged PR [#144](https://github.com/fastify/send/pull/144) in [fastify/send](https://github.com/fastify/send)
+4. 🎉 Merged PR [#405](https://github.com/fastify/light-my-request/pull/405) in [fastify/light-my-request](https://github.com/fastify/light-my-request)
+5. 🎉 Merged PR [#308](https://github.com/fastify/fluent-json-schema/pull/308) in [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

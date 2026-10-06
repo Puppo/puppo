@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Puppo/xe-website/pull/40) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. 💪 Opened PR [#40](https://github.com/Puppo/xe-website/pull/40) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-3. 🗣 Commented on [#532](https://github.com/fastify/fastify-autoload/pull/532#issuecomment-5999513385) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
-4. 💪 Opened PR [#533](https://github.com/fastify/fastify-autoload/pull/533) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
-5. 🎉 Merged PR [#149](https://github.com/fastify/process-warning/pull/149) in [fastify/process-warning](https://github.com/fastify/process-warning)
+1. 🎉 Merged PR [#59](https://github.com/fastify/sse/pull/59) in [fastify/sse](https://github.com/fastify/sse)
+2. 🎉 Merged PR [#259](https://github.com/fastify/fastify-request-context/pull/259) in [fastify/fastify-request-context](https://github.com/fastify/fastify-request-context)
+3. 🎉 Merged PR [#365](https://github.com/fastify/releasify/pull/365) in [fastify/releasify](https://github.com/fastify/releasify)
+4. 🎉 Merged PR [#82](https://github.com/fastify/fastify-opensearch/pull/82) in [fastify/fastify-opensearch](https://github.com/fastify/fastify-opensearch)
+5. 🎉 Merged PR [#57](https://github.com/fastify/fastify-valkey-glide/pull/57) in [fastify/fastify-valkey-glide](https://github.com/fastify/fastify-valkey-glide)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

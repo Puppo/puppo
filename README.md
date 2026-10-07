@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#532](https://github.com/fastify/fastify-autoload/pull/532) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
-2. 🎉 Merged PR [#533](https://github.com/fastify/fastify-autoload/pull/533) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
-3. 💪 Opened PR [#295](https://github.com/fastify/fastify-swagger-ui/pull/295) in [fastify/fastify-swagger-ui](https://github.com/fastify/fastify-swagger-ui)
-4. 🎉 Merged PR [#170](https://github.com/fastify/fastify-flash/pull/170) in [fastify/fastify-flash](https://github.com/fastify/fastify-flash)
-5. 🎉 Merged PR [#1449](https://github.com/fastify/fastify-passport/pull/1449) in [fastify/fastify-passport](https://github.com/fastify/fastify-passport)
+1. 💪 Opened PR [#44](https://github.com/Puppo/xe-website/pull/44) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 🎉 Merged PR [#532](https://github.com/fastify/fastify-autoload/pull/532) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
+3. 🎉 Merged PR [#533](https://github.com/fastify/fastify-autoload/pull/533) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
+4. 💪 Opened PR [#295](https://github.com/fastify/fastify-swagger-ui/pull/295) in [fastify/fastify-swagger-ui](https://github.com/fastify/fastify-swagger-ui)
+5. 🎉 Merged PR [#170](https://github.com/fastify/fastify-flash/pull/170) in [fastify/fastify-flash](https://github.com/fastify/fastify-flash)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

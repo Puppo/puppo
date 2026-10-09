@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/Puppo/xe-website/pull/44#issuecomment-6074464052) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. 🎉 Merged PR [#129](https://github.com/TheCodePace/fastify-skills/pull/129) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. 🗣 Commented on [#41](https://github.com/Puppo/xe-website/pull/41#issuecomment-6052377832) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-4. 💪 Opened PR [#44](https://github.com/Puppo/xe-website/pull/44) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-5. 🎉 Merged PR [#532](https://github.com/fastify/fastify-autoload/pull/532) in [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload)
+1. 🎉 Merged PR [#44](https://github.com/Puppo/xe-website/pull/44) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. 🗣 Commented on [#44](https://github.com/Puppo/xe-website/pull/44#issuecomment-6074464052) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 🎉 Merged PR [#129](https://github.com/TheCodePace/fastify-skills/pull/129) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
+4. 🗣 Commented on [#41](https://github.com/Puppo/xe-website/pull/41#issuecomment-6052377832) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+5. 💪 Opened PR [#44](https://github.com/Puppo/xe-website/pull/44) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

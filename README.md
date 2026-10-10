@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295#issuecomment-6097118816) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
-2. 🎉 Merged PR [#136](https://github.com/mcollina/mqemitter-redis/pull/136) in [mcollina/mqemitter-redis](https://github.com/mcollina/mqemitter-redis)
-3. 🎉 Merged PR [#7004](https://github.com/fastify/fastify/pull/7004) in [fastify/fastify](https://github.com/fastify/fastify)
-4. 🎉 Merged PR [#3](https://github.com/fastify/server/pull/3) in [fastify/server](https://github.com/fastify/server)
-5. 🎉 Merged PR [#55](https://github.com/Puppo/xe-website/pull/55) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. ℹ️ Reopened PR [#58](https://github.com/Puppo/xe-website/pull/58) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+2. ❌ Closed PR [#58](https://github.com/Puppo/xe-website/pull/58) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. ℹ️ Reopened PR [#57](https://github.com/Puppo/xe-website/pull/57) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. ❌ Closed PR [#57](https://github.com/Puppo/xe-website/pull/57) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+5. 🎉 Merged PR [#60](https://github.com/Puppo/xe-website/pull/60) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

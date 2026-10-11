@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/Puppo/xe-website/pull/61) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-2. ℹ️ Reopened PR [#58](https://github.com/Puppo/xe-website/pull/58) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-3. ❌ Closed PR [#58](https://github.com/Puppo/xe-website/pull/58) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-4. ℹ️ Reopened PR [#57](https://github.com/Puppo/xe-website/pull/57) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-5. ❌ Closed PR [#57](https://github.com/Puppo/xe-website/pull/57) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+1. 🎉 Merged PR [#4](https://github.com/Puppo/talks/pull/4) in [Puppo/talks](https://github.com/Puppo/talks)
+2. 💪 Opened PR [#4](https://github.com/Puppo/talks/pull/4) in [Puppo/talks](https://github.com/Puppo/talks)
+3. 🗣 Commented on [#7](https://github.com/Puppo/docker-harnesses/pull/7#issuecomment-6107638372) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
+4. 🗣 Commented on [#7](https://github.com/Puppo/docker-harnesses/pull/7#issuecomment-6107075327) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
+5. 💪 Opened PR [#61](https://github.com/Puppo/xe-website/pull/61) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

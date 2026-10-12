@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
-2. 🎉 Merged PR [#4](https://github.com/Puppo/talks/pull/4) in [Puppo/talks](https://github.com/Puppo/talks)
-3. 💪 Opened PR [#4](https://github.com/Puppo/talks/pull/4) in [Puppo/talks](https://github.com/Puppo/talks)
-4. 🗣 Commented on [#7](https://github.com/Puppo/docker-harnesses/pull/7#issuecomment-6107638372) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
-5. 🗣 Commented on [#7](https://github.com/Puppo/docker-harnesses/pull/7#issuecomment-6107075327) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
+1. 💪 Opened PR [#5](https://github.com/Puppo/talks/pull/5) in [Puppo/talks](https://github.com/Puppo/talks)
+2. 🎉 Merged PR [#61](https://github.com/Puppo/xe-website/pull/61) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+3. 🎉 Merged PR [#59](https://github.com/Puppo/xe-website/pull/59) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
+4. 🎉 Merged PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
+5. 🎉 Merged PR [#4](https://github.com/Puppo/talks/pull/4) in [Puppo/talks](https://github.com/Puppo/talks)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

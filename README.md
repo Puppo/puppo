@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Puppo/talks/pull/5) in [Puppo/talks](https://github.com/Puppo/talks)
-2. 🎉 Merged PR [#61](https://github.com/Puppo/xe-website/pull/61) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-3. 🎉 Merged PR [#59](https://github.com/Puppo/xe-website/pull/59) in [Puppo/xe-website](https://github.com/Puppo/xe-website)
-4. 🎉 Merged PR [#295](https://github.com/fastify/fastify-type-provider-typebox/pull/295) in [fastify/fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox)
-5. 🎉 Merged PR [#4](https://github.com/Puppo/talks/pull/4) in [Puppo/talks](https://github.com/Puppo/talks)
+1. 🗣 Commented on [#63](https://github.com/xedotnet/website/pull/63#issuecomment-6151070719) in [xedotnet/website](https://github.com/xedotnet/website)
+2. 🎉 Merged PR [#65](https://github.com/xedotnet/website/pull/65) in [xedotnet/website](https://github.com/xedotnet/website)
+3. 💪 Opened PR [#65](https://github.com/xedotnet/website/pull/65) in [xedotnet/website](https://github.com/xedotnet/website)
+4. 🎉 Merged PR [#64](https://github.com/xedotnet/website/pull/64) in [xedotnet/website](https://github.com/xedotnet/website)
+5. 🗣 Commented on [#63](https://github.com/xedotnet/website/pull/63#issuecomment-6150723552) in [xedotnet/website](https://github.com/xedotnet/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

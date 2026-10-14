@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/xedotnet/website/pull/68) in [xedotnet/website](https://github.com/xedotnet/website)
-2. 🗣 Commented on [#133](https://github.com/TheCodePace/fastify-skills/pull/133#issuecomment-6161195171) in [TheCodePace/fastify-skills](https://github.com/TheCodePace/fastify-skills)
-3. 🎉 Merged PR [#67](https://github.com/xedotnet/website/pull/67) in [xedotnet/website](https://github.com/xedotnet/website)
-4. 💪 Opened PR [#67](https://github.com/xedotnet/website/pull/67) in [xedotnet/website](https://github.com/xedotnet/website)
-5. 🗣 Commented on [#63](https://github.com/xedotnet/website/pull/63#issuecomment-6151070719) in [xedotnet/website](https://github.com/xedotnet/website)
+1. 💪 Opened PR [#2](https://github.com/Puppo/fastify-contribute-skills/pull/2) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
+2. 💪 Opened PR [#6](https://github.com/Puppo/talks/pull/6) in [Puppo/talks](https://github.com/Puppo/talks)
+3. 💪 Opened PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
+4. 🎉 Merged PR [#1](https://github.com/Puppo/fastify-contribute-skills/pull/1) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
+5. 💪 Opened PR [#1](https://github.com/Puppo/fastify-contribute-skills/pull/1) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

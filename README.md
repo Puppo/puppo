@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
-2. ❌ Closed PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
-3. 💪 Opened PR [#2](https://github.com/Puppo/fastify-contribute-skills/pull/2) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
-4. 💪 Opened PR [#6](https://github.com/Puppo/talks/pull/6) in [Puppo/talks](https://github.com/Puppo/talks)
-5. 💪 Opened PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
+1. 💪 Opened PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
+2. 🎉 Merged PR [#2](https://github.com/Puppo/fastify-contribute-skills/pull/2) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
+3. ℹ️ Reopened PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
+4. ❌ Closed PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
+5. 💪 Opened PR [#2](https://github.com/Puppo/fastify-contribute-skills/pull/2) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

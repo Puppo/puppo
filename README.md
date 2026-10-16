@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
-2. 🎉 Merged PR [#281](https://github.com/nearform/fastify-secrets-env/pull/281) in [nearform/fastify-secrets-env](https://github.com/nearform/fastify-secrets-env)
-3. 💪 Opened PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
-4. 🎉 Merged PR [#2](https://github.com/Puppo/fastify-contribute-skills/pull/2) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
-5. ℹ️ Reopened PR [#69](https://github.com/xedotnet/website/pull/69) in [xedotnet/website](https://github.com/xedotnet/website)
+1. ❌ Closed PR [#6](https://github.com/Puppo/talks/pull/6) in [Puppo/talks](https://github.com/Puppo/talks)
+2. 💪 Opened PR [#7](https://github.com/Puppo/talks/pull/7) in [Puppo/talks](https://github.com/Puppo/talks)
+3. 🎉 Merged PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
+4. 🎉 Merged PR [#281](https://github.com/nearform/fastify-secrets-env/pull/281) in [nearform/fastify-secrets-env](https://github.com/nearform/fastify-secrets-env)
+5. 💪 Opened PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

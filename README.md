@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/Puppo/talks/pull/6) in [Puppo/talks](https://github.com/Puppo/talks)
-2. 💪 Opened PR [#7](https://github.com/Puppo/talks/pull/7) in [Puppo/talks](https://github.com/Puppo/talks)
-3. 🎉 Merged PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
-4. 🎉 Merged PR [#281](https://github.com/nearform/fastify-secrets-env/pull/281) in [nearform/fastify-secrets-env](https://github.com/nearform/fastify-secrets-env)
-5. 💪 Opened PR [#3](https://github.com/Puppo/fastify-contribute-skills/pull/3) in [Puppo/fastify-contribute-skills](https://github.com/Puppo/fastify-contribute-skills)
+1. 💪 Opened PR [#75](https://github.com/xedotnet/website/pull/75) in [xedotnet/website](https://github.com/xedotnet/website)
+2. 🗣 Commented on [#3](https://github.com/tstyche/tstyche-skills/pull/3#issuecomment-6212224549) in [tstyche/tstyche-skills](https://github.com/tstyche/tstyche-skills)
+3. 💪 Opened PR [#74](https://github.com/xedotnet/website/pull/74) in [xedotnet/website](https://github.com/xedotnet/website)
+4. ❌ Closed PR [#6](https://github.com/Puppo/talks/pull/6) in [Puppo/talks](https://github.com/Puppo/talks)
+5. 💪 Opened PR [#7](https://github.com/Puppo/talks/pull/7) in [Puppo/talks](https://github.com/Puppo/talks)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

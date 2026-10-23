@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Puppo/talks/pull/10) in [Puppo/talks](https://github.com/Puppo/talks)
-2. 💪 Opened PR [#9](https://github.com/Puppo/talks/pull/9) in [Puppo/talks](https://github.com/Puppo/talks)
-3. 🎉 Merged PR [#8](https://github.com/Puppo/talks/pull/8) in [Puppo/talks](https://github.com/Puppo/talks)
-4. 💪 Opened PR [#8](https://github.com/Puppo/talks/pull/8) in [Puppo/talks](https://github.com/Puppo/talks)
-5. 🎉 Merged PR [#5](https://github.com/Puppo/talks/pull/5) in [Puppo/talks](https://github.com/Puppo/talks)
+1. 🎉 Merged PR [#9](https://github.com/Puppo/talks/pull/9) in [Puppo/talks](https://github.com/Puppo/talks)
+2. 💪 Opened PR [#10](https://github.com/Puppo/talks/pull/10) in [Puppo/talks](https://github.com/Puppo/talks)
+3. 💪 Opened PR [#9](https://github.com/Puppo/talks/pull/9) in [Puppo/talks](https://github.com/Puppo/talks)
+4. 🎉 Merged PR [#8](https://github.com/Puppo/talks/pull/8) in [Puppo/talks](https://github.com/Puppo/talks)
+5. 💪 Opened PR [#8](https://github.com/Puppo/talks/pull/8) in [Puppo/talks](https://github.com/Puppo/talks)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

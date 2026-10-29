@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Puppo/recipe-radar-with-ai/pull/5) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
-2. 💪 Opened PR [#5](https://github.com/Puppo/recipe-radar-with-ai/pull/5) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
-3. 🎉 Merged PR [#11](https://github.com/Puppo/talks/pull/11) in [Puppo/talks](https://github.com/Puppo/talks)
-4. 💪 Opened PR [#11](https://github.com/Puppo/talks/pull/11) in [Puppo/talks](https://github.com/Puppo/talks)
-5. 🎉 Merged PR [#10](https://github.com/Puppo/talks/pull/10) in [Puppo/talks](https://github.com/Puppo/talks)
+1. 💪 Opened PR [#91](https://github.com/xedotnet/website/pull/91) in [xedotnet/website](https://github.com/xedotnet/website)
+2. 🎉 Merged PR [#5](https://github.com/Puppo/recipe-radar-with-ai/pull/5) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
+3. 💪 Opened PR [#5](https://github.com/Puppo/recipe-radar-with-ai/pull/5) in [Puppo/recipe-radar-with-ai](https://github.com/Puppo/recipe-radar-with-ai)
+4. 🎉 Merged PR [#11](https://github.com/Puppo/talks/pull/11) in [Puppo/talks](https://github.com/Puppo/talks)
+5. 💪 Opened PR [#11](https://github.com/Puppo/talks/pull/11) in [Puppo/talks](https://github.com/Puppo/talks)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

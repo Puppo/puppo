@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
-2. 💪 Opened PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
-3. 🎉 Merged PR [#91](https://github.com/xedotnet/website/pull/91) in [xedotnet/website](https://github.com/xedotnet/website)
-4. 🗣 Commented on [#7115](https://github.com/fastify/fastify/pull/7115#issuecomment-6502825886) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 💪 Opened PR [#91](https://github.com/xedotnet/website/pull/91) in [xedotnet/website](https://github.com/xedotnet/website)
+1. 💪 Opened PR [#100](https://github.com/xedotnet/website/pull/100) in [xedotnet/website](https://github.com/xedotnet/website)
+2. 🎉 Merged PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
+3. 💪 Opened PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
+4. 🎉 Merged PR [#91](https://github.com/xedotnet/website/pull/91) in [xedotnet/website](https://github.com/xedotnet/website)
+5. 🗣 Commented on [#7115](https://github.com/fastify/fastify/pull/7115#issuecomment-6502825886) in [fastify/fastify](https://github.com/fastify/fastify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

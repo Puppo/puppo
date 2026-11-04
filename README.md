@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/xedotnet/website/pull/100) in [xedotnet/website](https://github.com/xedotnet/website)
-2. 🎉 Merged PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
-3. 💪 Opened PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
-4. 🎉 Merged PR [#91](https://github.com/xedotnet/website/pull/91) in [xedotnet/website](https://github.com/xedotnet/website)
-5. 🗣 Commented on [#7115](https://github.com/fastify/fastify/pull/7115#issuecomment-6502825886) in [fastify/fastify](https://github.com/fastify/fastify)
+1. 💪 Opened PR [#1](https://github.com/Puppo/rubiks-cube/pull/1) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
+2. 💪 Opened PR [#100](https://github.com/xedotnet/website/pull/100) in [xedotnet/website](https://github.com/xedotnet/website)
+3. 🎉 Merged PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
+4. 💪 Opened PR [#12](https://github.com/Puppo/talks/pull/12) in [Puppo/talks](https://github.com/Puppo/talks)
+5. 🎉 Merged PR [#91](https://github.com/xedotnet/website/pull/91) in [xedotnet/website](https://github.com/xedotnet/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

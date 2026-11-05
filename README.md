@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Puppo/rubiks-cube/pull/2) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
-2. 💪 Opened PR [#2](https://github.com/Puppo/rubiks-cube/pull/2) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
-3. 🎉 Merged PR [#1](https://github.com/Puppo/rubiks-cube/pull/1) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
-4. 💪 Opened PR [#1](https://github.com/Puppo/rubiks-cube/pull/1) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
-5. 💪 Opened PR [#100](https://github.com/xedotnet/website/pull/100) in [xedotnet/website](https://github.com/xedotnet/website)
+1. 💪 Opened PR [#3](https://github.com/Puppo/rubiks-cube/pull/3) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
+2. 🎉 Merged PR [#2](https://github.com/Puppo/rubiks-cube/pull/2) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
+3. 💪 Opened PR [#2](https://github.com/Puppo/rubiks-cube/pull/2) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
+4. 🎉 Merged PR [#1](https://github.com/Puppo/rubiks-cube/pull/1) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
+5. 💪 Opened PR [#1](https://github.com/Puppo/rubiks-cube/pull/1) in [Puppo/rubiks-cube](https://github.com/Puppo/rubiks-cube)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

@@ -54,7 +54,7 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP in Practice — Turn an HTML Form into an Agent Tool](https://dev.to/playfulprogramming/webmcp-in-practice-turn-an-html-form-into-an-agent-tool-38ja)
+- [WebMCP in Practice - Turn an HTML Form into an Agent Tool](https://dev.to/playfulprogramming/webmcp-in-practice-turn-an-html-form-into-an-agent-tool-38ja)
 - [WebMCP in Practice — Give AI Agents a Clear Way into Your App](https://dev.to/playfulprogramming/webmcp-in-practice-give-ai-agents-a-clear-way-into-your-app-3m40)
 - [Automating my Codemotion Badge with Antigravity](https://dev.to/playfulprogramming/automating-my-codemotion-badge-with-antigravity-4gpo)
 - [Take control of your job with GitLens Launchpad](https://dev.to/playfulprogramming/take-control-of-your-job-with-gitlens-launchpad-4oo2)

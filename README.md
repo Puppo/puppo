@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7219](https://github.com/fastify/fastify/pull/7219) in [fastify/fastify](https://github.com/fastify/fastify)
-2. 💪 Opened PR [#47](https://github.com/stevensacks/storybook-react-i18next/pull/47) in [stevensacks/storybook-react-i18next](https://github.com/stevensacks/storybook-react-i18next)
-3. 🎉 Merged PR [#9](https://github.com/Puppo/docker-harnesses/pull/9) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
-4. 💪 Opened PR [#9](https://github.com/Puppo/docker-harnesses/pull/9) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
-5. 🎉 Merged PR [#100](https://github.com/xedotnet/website/pull/100) in [xedotnet/website](https://github.com/xedotnet/website)
+1. 💪 Opened PR [#4](https://github.com/Puppo/minesweeper/pull/4) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
+2. 💪 Opened PR [#7219](https://github.com/fastify/fastify/pull/7219) in [fastify/fastify](https://github.com/fastify/fastify)
+3. 💪 Opened PR [#47](https://github.com/stevensacks/storybook-react-i18next/pull/47) in [stevensacks/storybook-react-i18next](https://github.com/stevensacks/storybook-react-i18next)
+4. 🎉 Merged PR [#9](https://github.com/Puppo/docker-harnesses/pull/9) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
+5. 💪 Opened PR [#9](https://github.com/Puppo/docker-harnesses/pull/9) in [Puppo/docker-harnesses](https://github.com/Puppo/docker-harnesses)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

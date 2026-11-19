@@ -54,11 +54,11 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WebMCP in Practice - Find the Right Task and Update It](https://dev.to/playfulprogramming/webmcp-in-practice-find-the-right-task-and-update-it-4441)
 - [WebMCP in Practice - Turn an HTML Form into an Agent Tool](https://dev.to/playfulprogramming/webmcp-in-practice-turn-an-html-form-into-an-agent-tool-38ja)
 - [WebMCP in Practice — Give AI Agents a Clear Way into Your App](https://dev.to/playfulprogramming/webmcp-in-practice-give-ai-agents-a-clear-way-into-your-app-3m40)
 - [Automating my Codemotion Badge with Antigravity](https://dev.to/playfulprogramming/automating-my-codemotion-badge-with-antigravity-4gpo)
 - [Take control of your job with GitLens Launchpad](https://dev.to/playfulprogramming/take-control-of-your-job-with-gitlens-launchpad-4oo2)
-- [The Mood Mirror App - My Antigravity first experience](https://dev.to/playfulprogramming/the-mood-mirror-app-my-antigravity-first-experience-10a4)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities

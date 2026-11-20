@@ -54,11 +54,11 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building the Modern Web with AI: Getting Started with Modern Web Guidance](https://dev.to/playfulprogramming/building-the-modern-web-with-ai-getting-started-with-modern-web-guidance-26fe)
 - [WebMCP in Practice - Find the Right Task and Update It](https://dev.to/playfulprogramming/webmcp-in-practice-find-the-right-task-and-update-it-4441)
 - [WebMCP in Practice - Turn an HTML Form into an Agent Tool](https://dev.to/playfulprogramming/webmcp-in-practice-turn-an-html-form-into-an-agent-tool-38ja)
 - [WebMCP in Practice — Give AI Agents a Clear Way into Your App](https://dev.to/playfulprogramming/webmcp-in-practice-give-ai-agents-a-clear-way-into-your-app-3m40)
 - [Automating my Codemotion Badge with Antigravity](https://dev.to/playfulprogramming/automating-my-codemotion-badge-with-antigravity-4gpo)
-- [Take control of your job with GitLens Launchpad](https://dev.to/playfulprogramming/take-control-of-your-job-with-gitlens-launchpad-4oo2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities

@@ -64,11 +64,11 @@
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#7259](https://github.com/fastify/fastify/pull/7259) in [fastify/fastify](https://github.com/fastify/fastify)
-2. 🎉 Merged PR [#53](https://github.com/TheCodePace/fastify-http-query/pull/53) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-3. 💪 Opened PR [#53](https://github.com/TheCodePace/fastify-http-query/pull/53) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
-4. 💪 Opened PR [#7259](https://github.com/fastify/fastify/pull/7259) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 🎉 Merged PR [#4](https://github.com/Puppo/minesweeper/pull/4) in [Puppo/minesweeper](https://github.com/Puppo/minesweeper)
+1. 🎉 Merged PR [#7259](https://github.com/fastify/fastify/pull/7259) in [fastify/fastify](https://github.com/fastify/fastify)
+2. ℹ️ Labeled PR [#7259](https://github.com/fastify/fastify/pull/7259) in [fastify/fastify](https://github.com/fastify/fastify)
+3. 🎉 Merged PR [#53](https://github.com/TheCodePace/fastify-http-query/pull/53) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+4. 💪 Opened PR [#53](https://github.com/TheCodePace/fastify-http-query/pull/53) in [TheCodePace/fastify-http-query](https://github.com/TheCodePace/fastify-http-query)
+5. 💪 Opened PR [#7259](https://github.com/fastify/fastify/pull/7259) in [fastify/fastify](https://github.com/fastify/fastify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating

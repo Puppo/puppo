@@ -54,11 +54,11 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building the Modern Web with AI: Modernizing Existing UI with Modern Web Guidance](https://dev.to/playfulprogramming/building-the-modern-web-with-ai-modernizing-existing-ui-with-modern-web-guidance-m89)
 - [WebMCP in Practice - Test Agent Outcomes, Not Just Tool Calls](https://dev.to/playfulprogramming/webmcp-in-practice-test-agent-outcomes-not-just-tool-calls-23h5)
 - [WebMCP in Practice — Keep Tools Honest When State Changes](https://dev.to/playfulprogramming/webmcp-in-practice-keep-tools-honest-when-state-changes-cg5)
 - [Building the Modern Web with AI: Getting Started with Modern Web Guidance](https://dev.to/playfulprogramming/building-the-modern-web-with-ai-getting-started-with-modern-web-guidance-26fe)
 - [WebMCP in Practice - Find the Right Task and Update It](https://dev.to/playfulprogramming/webmcp-in-practice-find-the-right-task-and-update-it-4441)
-- [WebMCP in Practice - Turn an HTML Form into an Agent Tool](https://dev.to/playfulprogramming/webmcp-in-practice-turn-an-html-form-into-an-agent-tool-38ja)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
